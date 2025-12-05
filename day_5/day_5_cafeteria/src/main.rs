@@ -1,4 +1,4 @@
-use std::{collections::HashSet, fs};
+use std::fs;
 
 fn part_one(ranges: Vec<(i64, i64)>, ids: Vec<i64>) -> u64 {
     let mut count: u64 = 0;
@@ -23,37 +23,29 @@ fn part_two(mut ranges: Vec<(i64, i64)>) -> u64 {
     'outer: for (lower_bound, upper_bound) in &ranges {
         let lower = lower_bound;
         let upper = upper_bound;
-        let mut changed = false;
         for index in 0..improved_ranges.len() {
-            let mut num1 = improved_ranges[index][0];
-            let mut num2 = improved_ranges[index][1];
+            let num1 = improved_ranges[index][0];
+            let num2 = improved_ranges[index][1];
             if num1 <= *lower && *lower <= num2 {
                 if num2 > *upper {
-                    changed = true;
+                    continue 'outer;
                 }
                 if num2 <= *upper {
-                    num2 = *upper;
-                    changed = true;
+                    improved_ranges[index][1] = *upper;
+                    continue 'outer;
                 }
             }
             if num1 <= *upper && *upper <= num2 {
                 if num1 < *lower {
-                    changed = true;
+                    continue 'outer;
                 }
                 if num1 >= *lower {
-                    num1 = *lower;
-                    changed = true;
+                    improved_ranges[index][0] = *lower;
+                    continue 'outer;
                 }
             }
-            if changed {
-                improved_ranges[index][0] = num1;
-                improved_ranges[index][1] = num2;
-                continue 'outer;
-            }
         }
-        if !changed {
-            improved_ranges.push(vec![*lower, *upper]);
-        }
+        improved_ranges.push(vec![*lower, *upper]);
     }
 
     println!("Improved ranges: {:#?}", improved_ranges);
