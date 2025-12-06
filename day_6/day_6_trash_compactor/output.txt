@@ -1,0 +1,7478 @@
+Part one total: 4387670995909
+7265
+Current operator: *
+42
+Current operator: *
+4
+Current operator: *
+0
+Current operator: *
+663
+Current operator: +
+5625
+Current operator: +
+0
+Current operator: +
+6736
+Current operator: +
+1838
+Current operator: +
+6211
+Current operator: +
+0
+Current operator: +
+8388
+Current operator: +
+2777
+Current operator: +
+6
+Current operator: +
+0
+Current operator: +
+4165
+Current operator: *
+8271
+Current operator: *
+682
+Current operator: *
+0
+Current operator: *
+41
+Current operator: *
+4593
+Current operator: *
+0
+Current operator: *
+8419
+Current operator: +
+7487
+Current operator: +
+8
+Current operator: +
+0
+Current operator: +
+2126
+Current operator: *
+566
+Current operator: *
+0
+Current operator: *
+9431
+Current operator: +
+957
+Current operator: +
+0
+Current operator: +
+1859
+Current operator: +
+2813
+Current operator: +
+5234
+Current operator: +
+238
+Current operator: +
+0
+Current operator: +
+2832
+Current operator: +
+654
+Current operator: +
+0
+Current operator: +
+6159
+Current operator: *
+1865
+Current operator: *
+0
+Current operator: *
+9486
+Current operator: +
+22
+Current operator: +
+0
+Current operator: +
+4626
+Current operator: *
+4732
+Current operator: *
+97
+Current operator: *
+0
+Current operator: *
+6652
+Current operator: +
+5873
+Current operator: +
+0
+Current operator: +
+3154
+Current operator: *
+8844
+Current operator: *
+8935
+Current operator: *
+0
+Current operator: *
+1
+Current operator: *
+4428
+Current operator: *
+1333
+Current operator: *
+0
+Current operator: *
+5
+Current operator: *
+3434
+Current operator: *
+0
+Current operator: *
+5183
+Current operator: +
+6934
+Current operator: +
+2716
+Current operator: +
+2535
+Current operator: +
+0
+Current operator: +
+578
+Current operator: +
+8982
+Current operator: +
+7269
+Current operator: +
+0
+Current operator: +
+5475
+Current operator: *
+682
+Current operator: *
+3
+Current operator: *
+0
+Current operator: *
+456
+Current operator: *
+2737
+Current operator: *
+5382
+Current operator: *
+0
+Current operator: *
+379
+Current operator: *
+9641
+Current operator: *
+0
+Current operator: *
+9652
+Current operator: +
+7644
+Current operator: +
+3843
+Current operator: +
+5
+Current operator: +
+0
+Current operator: +
+91
+Current operator: +
+9553
+Current operator: +
+6917
+Current operator: +
+0
+Current operator: +
+6724
+Current operator: *
+266
+Current operator: *
+0
+Current operator: *
+5848
+Current operator: *
+7473
+Current operator: *
+0
+Current operator: *
+3116
+Current operator: *
+835
+Current operator: *
+494
+Current operator: *
+0
+Current operator: *
+4466
+Current operator: +
+693
+Current operator: +
+35
+Current operator: +
+0
+Current operator: +
+7
+Current operator: +
+467
+Current operator: +
+7367
+Current operator: +
+0
+Current operator: +
+7469
+Current operator: +
+712
+Current operator: +
+0
+Current operator: +
+7112
+Current operator: *
+25
+Current operator: *
+0
+Current operator: *
+3714
+Current operator: +
+6869
+Current operator: +
+36
+Current operator: +
+0
+Current operator: +
+5566
+Current operator: +
+178
+Current operator: +
+183
+Current operator: +
+363
+Current operator: +
+0
+Current operator: +
+9153
+Current operator: +
+5935
+Current operator: +
+315
+Current operator: +
+65
+Current operator: +
+0
+Current operator: +
+3418
+Current operator: *
+7117
+Current operator: *
+695
+Current operator: *
+0
+Current operator: *
+67
+Current operator: *
+457
+Current operator: *
+1142
+Current operator: *
+0
+Current operator: *
+7647
+Current operator: +
+2818
+Current operator: +
+857
+Current operator: +
+174
+Current operator: +
+0
+Current operator: +
+693
+Current operator: *
+1181
+Current operator: *
+0
+Current operator: *
+9319
+Current operator: +
+343
+Current operator: +
+344
+Current operator: +
+9
+Current operator: +
+0
+Current operator: +
+1966
+Current operator: +
+4636
+Current operator: +
+63
+Current operator: +
+4
+Current operator: +
+0
+Current operator: +
+686
+Current operator: *
+455
+Current operator: *
+5522
+Current operator: *
+0
+Current operator: *
+8356
+Current operator: *
+4222
+Current operator: *
+0
+Current operator: *
+28
+Current operator: +
+336
+Current operator: +
+646
+Current operator: +
+5927
+Current operator: +
+0
+Current operator: +
+1459
+Current operator: *
+4176
+Current operator: *
+4877
+Current operator: *
+0
+Current operator: *
+5328
+Current operator: *
+538
+Current operator: *
+458
+Current operator: *
+0
+Current operator: *
+7351
+Current operator: +
+445
+Current operator: +
+472
+Current operator: +
+0
+Current operator: +
+8722
+Current operator: +
+4347
+Current operator: +
+1717
+Current operator: +
+443
+Current operator: +
+0
+Current operator: +
+4242
+Current operator: *
+3345
+Current operator: *
+54
+Current operator: *
+0
+Current operator: *
+6771
+Current operator: *
+485
+Current operator: *
+0
+Current operator: *
+7214
+Current operator: +
+97
+Current operator: +
+0
+Current operator: +
+2549
+Current operator: +
+7736
+Current operator: +
+0
+Current operator: +
+1241
+Current operator: *
+6421
+Current operator: *
+0
+Current operator: *
+7394
+Current operator: *
+1163
+Current operator: *
+0
+Current operator: *
+38
+Current operator: *
+533
+Current operator: *
+6278
+Current operator: *
+0
+Current operator: *
+8862
+Current operator: +
+1331
+Current operator: +
+6993
+Current operator: +
+0
+Current operator: +
+8337
+Current operator: *
+1986
+Current operator: *
+0
+Current operator: *
+537
+Current operator: *
+643
+Current operator: *
+8161
+Current operator: *
+0
+Current operator: *
+2344
+Current operator: *
+9565
+Current operator: *
+0
+Current operator: *
+4198
+Current operator: *
+99
+Current operator: *
+0
+Current operator: *
+1938
+Current operator: *
+55
+Current operator: *
+0
+Current operator: *
+1733
+Current operator: +
+763
+Current operator: +
+53
+Current operator: +
+0
+Current operator: +
+9835
+Current operator: *
+8964
+Current operator: *
+0
+Current operator: *
+2378
+Current operator: *
+8136
+Current operator: *
+243
+Current operator: *
+0
+Current operator: *
+9974
+Current operator: *
+3711
+Current operator: *
+72
+Current operator: *
+0
+Current operator: *
+1476
+Current operator: +
+948
+Current operator: +
+477
+Current operator: +
+0
+Current operator: +
+7991
+Current operator: +
+4945
+Current operator: +
+0
+Current operator: +
+1454
+Current operator: +
+179
+Current operator: +
+694
+Current operator: +
+0
+Current operator: +
+28
+Current operator: +
+984
+Current operator: +
+5339
+Current operator: +
+0
+Current operator: +
+5128
+Current operator: *
+4227
+Current operator: *
+0
+Current operator: *
+494
+Current operator: +
+9367
+Current operator: +
+4662
+Current operator: +
+0
+Current operator: +
+5394
+Current operator: +
+475
+Current operator: +
+0
+Current operator: +
+6955
+Current operator: +
+9836
+Current operator: +
+3841
+Current operator: +
+9577
+Current operator: +
+0
+Current operator: +
+8294
+Current operator: +
+593
+Current operator: +
+42
+Current operator: +
+0
+Current operator: +
+3233
+Current operator: *
+575
+Current operator: *
+4
+Current operator: *
+0
+Current operator: *
+2382
+Current operator: *
+812
+Current operator: *
+0
+Current operator: *
+9654
+Current operator: *
+7482
+Current operator: *
+653
+Current operator: *
+0
+Current operator: *
+4
+Current operator: +
+5767
+Current operator: +
+6464
+Current operator: +
+0
+Current operator: +
+5351
+Current operator: *
+6247
+Current operator: *
+8
+Current operator: *
+0
+Current operator: *
+3237
+Current operator: +
+4264
+Current operator: +
+8558
+Current operator: +
+4324
+Current operator: +
+0
+Current operator: +
+1379
+Current operator: *
+468
+Current operator: *
+0
+Current operator: *
+7721
+Current operator: *
+2567
+Current operator: *
+0
+Current operator: *
+2482
+Current operator: *
+525
+Current operator: *
+41
+Current operator: *
+0
+Current operator: *
+2483
+Current operator: *
+5885
+Current operator: *
+0
+Current operator: *
+535
+Current operator: +
+3926
+Current operator: +
+4385
+Current operator: +
+0
+Current operator: +
+1615
+Current operator: +
+3683
+Current operator: +
+826
+Current operator: +
+0
+Current operator: +
+2
+Current operator: *
+6786
+Current operator: *
+0
+Current operator: *
+5543
+Current operator: *
+74
+Current operator: *
+0
+Current operator: *
+686
+Current operator: +
+3738
+Current operator: +
+0
+Current operator: +
+1911
+Current operator: +
+7981
+Current operator: +
+4989
+Current operator: +
+6
+Current operator: +
+0
+Current operator: +
+297
+Current operator: +
+1446
+Current operator: +
+9898
+Current operator: +
+0
+Current operator: +
+18
+Current operator: +
+44
+Current operator: +
+1211
+Current operator: +
+1521
+Current operator: +
+0
+Current operator: +
+4924
+Current operator: +
+38
+Current operator: +
+18
+Current operator: +
+0
+Current operator: +
+7114
+Current operator: +
+763
+Current operator: +
+647
+Current operator: +
+0
+Current operator: +
+5576
+Current operator: *
+528
+Current operator: *
+5
+Current operator: *
+0
+Current operator: *
+5121
+Current operator: +
+4257
+Current operator: +
+0
+Current operator: +
+8917
+Current operator: +
+689
+Current operator: +
+0
+Current operator: +
+8697
+Current operator: *
+4984
+Current operator: *
+0
+Current operator: *
+5765
+Current operator: *
+9257
+Current operator: *
+58
+Current operator: *
+0
+Current operator: *
+8623
+Current operator: +
+1499
+Current operator: +
+4249
+Current operator: +
+0
+Current operator: +
+2773
+Current operator: +
+119
+Current operator: +
+0
+Current operator: +
+7569
+Current operator: *
+7194
+Current operator: *
+3776
+Current operator: *
+0
+Current operator: *
+7891
+Current operator: +
+3328
+Current operator: +
+7124
+Current operator: +
+936
+Current operator: +
+0
+Current operator: +
+4544
+Current operator: +
+595
+Current operator: +
+395
+Current operator: +
+0
+Current operator: +
+292
+Current operator: *
+1174
+Current operator: *
+1915
+Current operator: *
+0
+Current operator: *
+34
+Current operator: +
+9497
+Current operator: +
+0
+Current operator: +
+23
+Current operator: *
+97
+Current operator: *
+3811
+Current operator: *
+0
+Current operator: *
+8399
+Current operator: +
+3946
+Current operator: +
+5473
+Current operator: +
+642
+Current operator: +
+0
+Current operator: +
+3338
+Current operator: +
+15
+Current operator: +
+15
+Current operator: +
+0
+Current operator: +
+4652
+Current operator: *
+1363
+Current operator: *
+0
+Current operator: *
+41
+Current operator: +
+736
+Current operator: +
+4912
+Current operator: +
+0
+Current operator: +
+9873
+Current operator: +
+49
+Current operator: +
+0
+Current operator: +
+3749
+Current operator: +
+7925
+Current operator: +
+2858
+Current operator: +
+156
+Current operator: +
+0
+Current operator: +
+6974
+Current operator: +
+7452
+Current operator: +
+165
+Current operator: +
+0
+Current operator: +
+69
+Current operator: *
+361
+Current operator: *
+4149
+Current operator: *
+0
+Current operator: *
+8335
+Current operator: +
+413
+Current operator: +
+0
+Current operator: +
+8543
+Current operator: *
+3898
+Current operator: *
+8125
+Current operator: *
+0
+Current operator: *
+4273
+Current operator: +
+7747
+Current operator: +
+286
+Current operator: +
+0
+Current operator: +
+235
+Current operator: +
+513
+Current operator: +
+1931
+Current operator: +
+8469
+Current operator: +
+0
+Current operator: +
+8293
+Current operator: +
+4283
+Current operator: +
+0
+Current operator: +
+9893
+Current operator: +
+4131
+Current operator: +
+5498
+Current operator: +
+0
+Current operator: +
+319
+Current operator: +
+983
+Current operator: +
+8938
+Current operator: +
+0
+Current operator: +
+56
+Current operator: *
+7973
+Current operator: *
+3899
+Current operator: *
+0
+Current operator: *
+373
+Current operator: *
+1521
+Current operator: *
+0
+Current operator: *
+4657
+Current operator: +
+9381
+Current operator: +
+854
+Current operator: +
+14
+Current operator: +
+0
+Current operator: +
+2188
+Current operator: *
+8411
+Current operator: *
+0
+Current operator: *
+31
+Current operator: +
+9937
+Current operator: +
+9836
+Current operator: +
+0
+Current operator: +
+4183
+Current operator: *
+27
+Current operator: *
+0
+Current operator: *
+4922
+Current operator: +
+3915
+Current operator: +
+4829
+Current operator: +
+0
+Current operator: +
+4973
+Current operator: *
+384
+Current operator: *
+576
+Current operator: *
+0
+Current operator: *
+4967
+Current operator: +
+8335
+Current operator: +
+433
+Current operator: +
+328
+Current operator: +
+0
+Current operator: +
+327
+Current operator: +
+192
+Current operator: +
+2948
+Current operator: +
+0
+Current operator: +
+8461
+Current operator: +
+5437
+Current operator: +
+9651
+Current operator: +
+7886
+Current operator: +
+0
+Current operator: +
+2597
+Current operator: +
+4
+Current operator: +
+0
+Current operator: +
+8497
+Current operator: *
+788
+Current operator: *
+0
+Current operator: *
+5374
+Current operator: +
+1697
+Current operator: +
+0
+Current operator: +
+1494
+Current operator: +
+83
+Current operator: +
+2
+Current operator: +
+0
+Current operator: +
+5676
+Current operator: +
+5848
+Current operator: +
+319
+Current operator: +
+767
+Current operator: +
+0
+Current operator: +
+746
+Current operator: *
+6794
+Current operator: *
+9423
+Current operator: *
+0
+Current operator: *
+8468
+Current operator: +
+3
+Current operator: +
+0
+Current operator: +
+1789
+Current operator: +
+6995
+Current operator: +
+2779
+Current operator: +
+0
+Current operator: +
+6946
+Current operator: *
+6725
+Current operator: *
+0
+Current operator: *
+9526
+Current operator: +
+5318
+Current operator: +
+338
+Current operator: +
+0
+Current operator: +
+5517
+Current operator: +
+531
+Current operator: +
+426
+Current operator: +
+986
+Current operator: +
+0
+Current operator: +
+459
+Current operator: *
+7937
+Current operator: *
+0
+Current operator: *
+4339
+Current operator: *
+2232
+Current operator: *
+342
+Current operator: *
+0
+Current operator: *
+73
+Current operator: +
+1819
+Current operator: +
+3672
+Current operator: +
+0
+Current operator: +
+34
+Current operator: *
+195
+Current operator: *
+6986
+Current operator: *
+0
+Current operator: *
+9794
+Current operator: +
+1242
+Current operator: +
+0
+Current operator: +
+9761
+Current operator: *
+942
+Current operator: *
+68
+Current operator: *
+0
+Current operator: *
+7881
+Current operator: *
+6827
+Current operator: *
+4551
+Current operator: *
+0
+Current operator: *
+1227
+Current operator: *
+3741
+Current operator: *
+0
+Current operator: *
+2351
+Current operator: *
+495
+Current operator: *
+0
+Current operator: *
+114
+Current operator: *
+189
+Current operator: *
+5723
+Current operator: *
+0
+Current operator: *
+78
+Current operator: *
+9239
+Current operator: *
+0
+Current operator: *
+9172
+Current operator: *
+2265
+Current operator: *
+0
+Current operator: *
+5762
+Current operator: +
+64
+Current operator: +
+0
+Current operator: +
+8854
+Current operator: +
+66
+Current operator: +
+0
+Current operator: +
+4995
+Current operator: +
+3914
+Current operator: +
+336
+Current operator: +
+0
+Current operator: +
+7356
+Current operator: *
+6383
+Current operator: *
+0
+Current operator: *
+77
+Current operator: *
+3448
+Current operator: *
+0
+Current operator: *
+3672
+Current operator: *
+9947
+Current operator: *
+153
+Current operator: *
+0
+Current operator: *
+9516
+Current operator: *
+39
+Current operator: *
+0
+Current operator: *
+238
+Current operator: +
+2755
+Current operator: +
+7481
+Current operator: +
+0
+Current operator: +
+9362
+Current operator: +
+6513
+Current operator: +
+332
+Current operator: +
+894
+Current operator: +
+0
+Current operator: +
+7822
+Current operator: +
+7729
+Current operator: +
+333
+Current operator: +
+682
+Current operator: +
+0
+Current operator: +
+6341
+Current operator: *
+6991
+Current operator: *
+3615
+Current operator: *
+0
+Current operator: *
+375
+Current operator: *
+3543
+Current operator: *
+4853
+Current operator: *
+0
+Current operator: *
+56
+Current operator: +
+536
+Current operator: +
+6821
+Current operator: +
+2647
+Current operator: +
+0
+Current operator: +
+1845
+Current operator: +
+8943
+Current operator: +
+12
+Current operator: +
+0
+Current operator: +
+92
+Current operator: +
+7742
+Current operator: +
+0
+Current operator: +
+4
+Current operator: *
+48
+Current operator: *
+1284
+Current operator: *
+0
+Current operator: *
+1322
+Current operator: +
+584
+Current operator: +
+615
+Current operator: +
+989
+Current operator: +
+0
+Current operator: +
+43
+Current operator: *
+673
+Current operator: *
+8679
+Current operator: *
+0
+Current operator: *
+122
+Current operator: *
+1654
+Current operator: *
+8354
+Current operator: *
+0
+Current operator: *
+54
+Current operator: *
+2949
+Current operator: *
+0
+Current operator: *
+11
+Current operator: +
+7774
+Current operator: +
+8688
+Current operator: +
+9517
+Current operator: +
+0
+Current operator: +
+4916
+Current operator: +
+738
+Current operator: +
+78
+Current operator: +
+79
+Current operator: +
+0
+Current operator: +
+9664
+Current operator: +
+2842
+Current operator: +
+0
+Current operator: +
+6482
+Current operator: +
+4532
+Current operator: +
+0
+Current operator: +
+2664
+Current operator: +
+7824
+Current operator: +
+7628
+Current operator: +
+0
+Current operator: +
+9147
+Current operator: *
+278
+Current operator: *
+436
+Current operator: *
+0
+Current operator: *
+3231
+Current operator: *
+812
+Current operator: *
+946
+Current operator: *
+0
+Current operator: *
+1722
+Current operator: *
+1442
+Current operator: *
+778
+Current operator: *
+0
+Current operator: *
+3831
+Current operator: *
+58
+Current operator: *
+0
+Current operator: *
+2583
+Current operator: +
+8561
+Current operator: +
+746
+Current operator: +
+0
+Current operator: +
+2752
+Current operator: *
+393
+Current operator: *
+0
+Current operator: *
+4198
+Current operator: +
+5111
+Current operator: +
+0
+Current operator: +
+935
+Current operator: *
+8275
+Current operator: *
+0
+Current operator: *
+2951
+Current operator: *
+9494
+Current operator: *
+0
+Current operator: *
+624
+Current operator: *
+4636
+Current operator: *
+2643
+Current operator: *
+0
+Current operator: *
+95
+Current operator: *
+461
+Current operator: *
+5116
+Current operator: *
+0
+Current operator: *
+5649
+Current operator: *
+8467
+Current operator: *
+0
+Current operator: *
+9874
+Current operator: *
+4843
+Current operator: *
+664
+Current operator: *
+0
+Current operator: *
+4367
+Current operator: +
+7115
+Current operator: +
+0
+Current operator: +
+6267
+Current operator: +
+3619
+Current operator: +
+1357
+Current operator: +
+0
+Current operator: +
+955
+Current operator: +
+528
+Current operator: +
+2291
+Current operator: +
+4999
+Current operator: +
+0
+Current operator: +
+4156
+Current operator: *
+689
+Current operator: *
+0
+Current operator: *
+3835
+Current operator: +
+4291
+Current operator: +
+0
+Current operator: +
+2799
+Current operator: *
+763
+Current operator: *
+0
+Current operator: *
+1263
+Current operator: *
+6377
+Current operator: *
+0
+Current operator: *
+6993
+Current operator: *
+45
+Current operator: *
+1
+Current operator: *
+0
+Current operator: *
+2389
+Current operator: +
+2765
+Current operator: +
+0
+Current operator: +
+8865
+Current operator: *
+9814
+Current operator: *
+0
+Current operator: *
+752
+Current operator: *
+5255
+Current operator: *
+0
+Current operator: *
+7552
+Current operator: +
+6243
+Current operator: +
+0
+Current operator: +
+2345
+Current operator: *
+3386
+Current operator: *
+497
+Current operator: *
+0
+Current operator: *
+4859
+Current operator: *
+1392
+Current operator: *
+0
+Current operator: *
+4377
+Current operator: *
+1451
+Current operator: *
+23
+Current operator: *
+0
+Current operator: *
+3369
+Current operator: +
+1
+Current operator: +
+0
+Current operator: +
+5735
+Current operator: +
+7979
+Current operator: +
+885
+Current operator: +
+0
+Current operator: +
+2843
+Current operator: +
+5567
+Current operator: +
+991
+Current operator: +
+79
+Current operator: +
+0
+Current operator: +
+823
+Current operator: *
+3386
+Current operator: *
+9155
+Current operator: *
+0
+Current operator: *
+3763
+Current operator: +
+5751
+Current operator: +
+0
+Current operator: +
+952
+Current operator: *
+4863
+Current operator: *
+0
+Current operator: *
+2381
+Current operator: +
+3875
+Current operator: +
+1336
+Current operator: +
+524
+Current operator: +
+0
+Current operator: +
+5547
+Current operator: *
+467
+Current operator: *
+755
+Current operator: *
+0
+Current operator: *
+4497
+Current operator: *
+3291
+Current operator: *
+0
+Current operator: *
+2173
+Current operator: *
+1459
+Current operator: *
+5
+Current operator: *
+0
+Current operator: *
+575
+Current operator: +
+6946
+Current operator: +
+0
+Current operator: +
+6116
+Current operator: +
+8842
+Current operator: +
+0
+Current operator: +
+317
+Current operator: +
+8882
+Current operator: +
+3255
+Current operator: +
+0
+Current operator: +
+555
+Current operator: +
+223
+Current operator: +
+6577
+Current operator: +
+0
+Current operator: +
+2822
+Current operator: +
+8927
+Current operator: +
+87
+Current operator: +
+0
+Current operator: +
+2477
+Current operator: +
+465
+Current operator: +
+79
+Current operator: +
+0
+Current operator: +
+3892
+Current operator: *
+9388
+Current operator: *
+0
+Current operator: *
+7482
+Current operator: +
+548
+Current operator: +
+95
+Current operator: +
+0
+Current operator: +
+634
+Current operator: +
+6619
+Current operator: +
+2862
+Current operator: +
+0
+Current operator: +
+63
+Current operator: +
+1463
+Current operator: +
+3849
+Current operator: +
+0
+Current operator: +
+6637
+Current operator: *
+386
+Current operator: *
+8
+Current operator: *
+0
+Current operator: *
+3646
+Current operator: *
+5949
+Current operator: *
+0
+Current operator: *
+5665
+Current operator: +
+6515
+Current operator: +
+315
+Current operator: +
+0
+Current operator: +
+7352
+Current operator: *
+5821
+Current operator: *
+543
+Current operator: *
+0
+Current operator: *
+5864
+Current operator: *
+3481
+Current operator: *
+0
+Current operator: *
+2922
+Current operator: +
+929
+Current operator: +
+0
+Current operator: +
+9951
+Current operator: *
+491
+Current operator: *
+0
+Current operator: *
+2283
+Current operator: *
+8824
+Current operator: *
+0
+Current operator: *
+1516
+Current operator: +
+3833
+Current operator: +
+0
+Current operator: +
+647
+Current operator: +
+1846
+Current operator: +
+0
+Current operator: +
+8844
+Current operator: *
+76
+Current operator: *
+9
+Current operator: *
+0
+Current operator: *
+3331
+Current operator: *
+2475
+Current operator: *
+0
+Current operator: *
+1519
+Current operator: +
+121
+Current operator: +
+759
+Current operator: +
+74
+Current operator: +
+0
+Current operator: +
+498
+Current operator: +
+6129
+Current operator: +
+0
+Current operator: +
+6946
+Current operator: +
+61
+Current operator: +
+0
+Current operator: +
+9473
+Current operator: +
+5216
+Current operator: +
+0
+Current operator: +
+8664
+Current operator: *
+2518
+Current operator: *
+0
+Current operator: *
+71
+Current operator: +
+366
+Current operator: +
+1135
+Current operator: +
+0
+Current operator: +
+33
+Current operator: +
+7143
+Current operator: +
+0
+Current operator: +
+978
+Current operator: +
+347
+Current operator: +
+3184
+Current operator: +
+0
+Current operator: +
+1642
+Current operator: *
+6886
+Current operator: *
+0
+Current operator: *
+459
+Current operator: +
+5586
+Current operator: +
+0
+Current operator: +
+532
+Current operator: +
+6934
+Current operator: +
+2969
+Current operator: +
+4131
+Current operator: +
+0
+Current operator: +
+5116
+Current operator: +
+9562
+Current operator: +
+0
+Current operator: +
+5145
+Current operator: *
+5327
+Current operator: *
+1579
+Current operator: *
+0
+Current operator: *
+1212
+Current operator: *
+861
+Current operator: *
+17
+Current operator: *
+0
+Current operator: *
+222
+Current operator: *
+3494
+Current operator: *
+5481
+Current operator: *
+0
+Current operator: *
+915
+Current operator: *
+7691
+Current operator: *
+9887
+Current operator: *
+0
+Current operator: *
+655
+Current operator: +
+2115
+Current operator: +
+0
+Current operator: +
+4683
+Current operator: +
+336
+Current operator: +
+737
+Current operator: +
+0
+Current operator: +
+9443
+Current operator: *
+946
+Current operator: *
+0
+Current operator: *
+5858
+Current operator: *
+958
+Current operator: *
+0
+Current operator: *
+118
+Current operator: +
+3171
+Current operator: +
+4649
+Current operator: +
+9379
+Current operator: +
+0
+Current operator: +
+3428
+Current operator: +
+3563
+Current operator: +
+7652
+Current operator: +
+3991
+Current operator: +
+0
+Current operator: +
+9936
+Current operator: +
+87
+Current operator: +
+0
+Current operator: +
+5449
+Current operator: *
+115
+Current operator: *
+0
+Current operator: *
+4
+Current operator: +
+7442
+Current operator: +
+0
+Current operator: +
+7259
+Current operator: *
+472
+Current operator: *
+0
+Current operator: *
+4932
+Current operator: +
+1486
+Current operator: +
+0
+Current operator: +
+28
+Current operator: +
+41
+Current operator: +
+439
+Current operator: +
+3965
+Current operator: +
+0
+Current operator: +
+43
+Current operator: *
+6173
+Current operator: *
+0
+Current operator: *
+6662
+Current operator: *
+3
+Current operator: *
+0
+Current operator: *
+25
+Current operator: *
+4728
+Current operator: *
+0
+Current operator: *
+6676
+Current operator: +
+8888
+Current operator: +
+589
+Current operator: +
+1
+Current operator: +
+0
+Current operator: +
+9449
+Current operator: +
+1886
+Current operator: +
+831
+Current operator: +
+779
+Current operator: +
+0
+Current operator: +
+9554
+Current operator: +
+1217
+Current operator: +
+0
+Current operator: +
+687
+Current operator: +
+365
+Current operator: +
+646
+Current operator: +
+6159
+Current operator: +
+0
+Current operator: +
+8587
+Current operator: +
+194
+Current operator: +
+0
+Current operator: +
+8156
+Current operator: +
+898
+Current operator: +
+0
+Current operator: +
+9988
+Current operator: *
+6385
+Current operator: *
+4
+Current operator: *
+0
+Current operator: *
+4965
+Current operator: *
+5987
+Current operator: *
+0
+Current operator: *
+4987
+Current operator: *
+4977
+Current operator: *
+8975
+Current operator: *
+0
+Current operator: *
+9621
+Current operator: *
+6574
+Current operator: *
+9439
+Current operator: *
+0
+Current operator: *
+4784
+Current operator: *
+2454
+Current operator: *
+931
+Current operator: *
+0
+Current operator: *
+6114
+Current operator: *
+88
+Current operator: *
+0
+Current operator: *
+755
+Current operator: *
+4917
+Current operator: *
+8125
+Current operator: *
+0
+Current operator: *
+2235
+Current operator: *
+7899
+Current operator: *
+6134
+Current operator: *
+0
+Current operator: *
+8858
+Current operator: +
+4967
+Current operator: +
+0
+Current operator: +
+1
+Current operator: *
+8178
+Current operator: *
+0
+Current operator: *
+752
+Current operator: *
+228
+Current operator: *
+4123
+Current operator: *
+0
+Current operator: *
+2463
+Current operator: *
+6541
+Current operator: *
+1863
+Current operator: *
+0
+Current operator: *
+9721
+Current operator: +
+8674
+Current operator: +
+3852
+Current operator: +
+0
+Current operator: +
+4
+Current operator: *
+2831
+Current operator: *
+2956
+Current operator: *
+0
+Current operator: *
+6543
+Current operator: *
+2631
+Current operator: *
+0
+Current operator: *
+841
+Current operator: +
+4636
+Current operator: +
+0
+Current operator: +
+164
+Current operator: +
+5942
+Current operator: +
+0
+Current operator: +
+3423
+Current operator: *
+3123
+Current operator: *
+0
+Current operator: *
+957
+Current operator: *
+2483
+Current operator: *
+0
+Current operator: *
+9632
+Current operator: +
+8867
+Current operator: +
+3591
+Current operator: +
+766
+Current operator: +
+0
+Current operator: +
+8782
+Current operator: *
+4684
+Current operator: *
+444
+Current operator: *
+0
+Current operator: *
+8687
+Current operator: *
+4386
+Current operator: *
+158
+Current operator: *
+0
+Current operator: *
+65
+Current operator: *
+6262
+Current operator: *
+3926
+Current operator: *
+0
+Current operator: *
+5493
+Current operator: +
+367
+Current operator: +
+0
+Current operator: +
+983
+Current operator: *
+2834
+Current operator: *
+5351
+Current operator: *
+0
+Current operator: *
+2179
+Current operator: *
+4453
+Current operator: *
+0
+Current operator: *
+14
+Current operator: *
+318
+Current operator: *
+4176
+Current operator: *
+0
+Current operator: *
+96
+Current operator: +
+4765
+Current operator: +
+0
+Current operator: +
+3725
+Current operator: +
+5287
+Current operator: +
+0
+Current operator: +
+4428
+Current operator: +
+9781
+Current operator: +
+439
+Current operator: +
+17
+Current operator: +
+0
+Current operator: +
+2874
+Current operator: +
+3743
+Current operator: +
+637
+Current operator: +
+298
+Current operator: +
+0
+Current operator: +
+78
+Current operator: +
+3986
+Current operator: +
+0
+Current operator: +
+8
+Current operator: +
+73
+Current operator: +
+6337
+Current operator: +
+9473
+Current operator: +
+0
+Current operator: +
+2952
+Current operator: +
+5591
+Current operator: +
+6949
+Current operator: +
+7399
+Current operator: +
+0
+Current operator: +
+2778
+Current operator: +
+1471
+Current operator: +
+8857
+Current operator: +
+7213
+Current operator: +
+0
+Current operator: +
+7531
+Current operator: *
+77
+Current operator: *
+0
+Current operator: *
+284
+Current operator: +
+4216
+Current operator: +
+1551
+Current operator: +
+0
+Current operator: +
+7883
+Current operator: *
+7485
+Current operator: *
+581
+Current operator: *
+0
+Current operator: *
+675
+Current operator: *
+935
+Current operator: *
+5838
+Current operator: *
+0
+Current operator: *
+3479
+Current operator: +
+57
+Current operator: +
+0
+Current operator: +
+6434
+Current operator: +
+66
+Current operator: +
+0
+Current operator: +
+9822
+Current operator: *
+2241
+Current operator: *
+0
+Current operator: *
+2297
+Current operator: +
+898
+Current operator: +
+0
+Current operator: +
+419
+Current operator: +
+4142
+Current operator: +
+9186
+Current operator: +
+0
+Current operator: +
+5165
+Current operator: +
+5818
+Current operator: +
+0
+Current operator: +
+2182
+Current operator: *
+1292
+Current operator: *
+0
+Current operator: *
+3841
+Current operator: *
+4843
+Current operator: *
+6
+Current operator: *
+0
+Current operator: *
+4219
+Current operator: +
+1417
+Current operator: +
+769
+Current operator: +
+572
+Current operator: +
+0
+Current operator: +
+8335
+Current operator: +
+7934
+Current operator: +
+0
+Current operator: +
+1464
+Current operator: *
+4326
+Current operator: *
+0
+Current operator: *
+2585
+Current operator: *
+2627
+Current operator: *
+0
+Current operator: *
+9237
+Current operator: +
+6414
+Current operator: +
+0
+Current operator: +
+5863
+Current operator: +
+1876
+Current operator: +
+816
+Current operator: +
+0
+Current operator: +
+617
+Current operator: *
+7749
+Current operator: *
+3549
+Current operator: *
+0
+Current operator: *
+1
+Current operator: +
+193
+Current operator: +
+2485
+Current operator: +
+0
+Current operator: +
+189
+Current operator: +
+662
+Current operator: +
+2785
+Current operator: +
+0
+Current operator: +
+167
+Current operator: *
+8784
+Current operator: *
+0
+Current operator: *
+4263
+Current operator: +
+6968
+Current operator: +
+986
+Current operator: +
+0
+Current operator: +
+6536
+Current operator: *
+6874
+Current operator: *
+0
+Current operator: *
+426
+Current operator: +
+7555
+Current operator: +
+0
+Current operator: +
+3658
+Current operator: *
+544
+Current operator: *
+28
+Current operator: *
+0
+Current operator: *
+3372
+Current operator: *
+1263
+Current operator: *
+1465
+Current operator: *
+0
+Current operator: *
+41
+Current operator: +
+69
+Current operator: +
+8253
+Current operator: +
+0
+Current operator: +
+63
+Current operator: +
+8492
+Current operator: +
+0
+Current operator: +
+986
+Current operator: *
+3963
+Current operator: *
+0
+Current operator: *
+9177
+Current operator: +
+7775
+Current operator: +
+0
+Current operator: +
+314
+Current operator: +
+3298
+Current operator: +
+9189
+Current operator: +
+0
+Current operator: +
+595
+Current operator: *
+5193
+Current operator: *
+0
+Current operator: *
+37
+Current operator: +
+8348
+Current operator: +
+0
+Current operator: +
+8
+Current operator: +
+9498
+Current operator: +
+9696
+Current operator: +
+0
+Current operator: +
+344
+Current operator: +
+4512
+Current operator: +
+0
+Current operator: +
+1466
+Current operator: *
+7984
+Current operator: *
+0
+Current operator: *
+5976
+Current operator: *
+482
+Current operator: *
+0
+Current operator: *
+3817
+Current operator: +
+3731
+Current operator: +
+0
+Current operator: +
+12
+Current operator: +
+1421
+Current operator: +
+0
+Current operator: +
+8573
+Current operator: *
+2333
+Current operator: *
+3849
+Current operator: *
+0
+Current operator: *
+6947
+Current operator: +
+74
+Current operator: +
+0
+Current operator: +
+236
+Current operator: +
+4116
+Current operator: +
+0
+Current operator: +
+6382
+Current operator: +
+7328
+Current operator: +
+0
+Current operator: +
+9856
+Current operator: +
+4261
+Current operator: +
+0
+Current operator: +
+7117
+Current operator: +
+676
+Current operator: +
+0
+Current operator: +
+7413
+Current operator: *
+8812
+Current operator: *
+471
+Current operator: *
+0
+Current operator: *
+1218
+Current operator: +
+8753
+Current operator: +
+6532
+Current operator: +
+0
+Current operator: +
+3388
+Current operator: +
+6187
+Current operator: +
+0
+Current operator: +
+92
+Current operator: +
+931
+Current operator: +
+398
+Current operator: +
+5224
+Current operator: +
+0
+Current operator: +
+595
+Current operator: +
+196
+Current operator: +
+3167
+Current operator: +
+0
+Current operator: +
+269
+Current operator: *
+332
+Current operator: *
+8285
+Current operator: *
+0
+Current operator: *
+94
+Current operator: *
+65
+Current operator: *
+1638
+Current operator: *
+0
+Current operator: *
+632
+Current operator: *
+6465
+Current operator: *
+8513
+Current operator: *
+0
+Current operator: *
+6911
+Current operator: *
+5352
+Current operator: *
+2759
+Current operator: *
+0
+Current operator: *
+993
+Current operator: *
+2949
+Current operator: *
+0
+Current operator: *
+3362
+Current operator: +
+454
+Current operator: +
+0
+Current operator: +
+5649
+Current operator: *
+6859
+Current operator: *
+796
+Current operator: *
+0
+Current operator: *
+9443
+Current operator: *
+847
+Current operator: *
+77
+Current operator: *
+0
+Current operator: *
+7918
+Current operator: +
+4657
+Current operator: +
+0
+Current operator: +
+1381
+Current operator: *
+727
+Current operator: *
+0
+Current operator: *
+98
+Current operator: *
+76
+Current operator: *
+8253
+Current operator: *
+0
+Current operator: *
+7456
+Current operator: +
+9869
+Current operator: +
+57
+Current operator: +
+49
+Current operator: +
+0
+Current operator: +
+9165
+Current operator: +
+2
+Current operator: +
+0
+Current operator: +
+6912
+Current operator: +
+9972
+Current operator: +
+853
+Current operator: +
+86
+Current operator: +
+0
+Current operator: +
+3917
+Current operator: *
+1982
+Current operator: *
+1158
+Current operator: *
+0
+Current operator: *
+1597
+Current operator: +
+2791
+Current operator: +
+0
+Current operator: +
+1355
+Current operator: +
+7728
+Current operator: +
+339
+Current operator: +
+0
+Current operator: +
+6984
+Current operator: +
+1176
+Current operator: +
+0
+Current operator: +
+2796
+Current operator: +
+1237
+Current operator: +
+0
+Current operator: +
+7535
+Current operator: *
+7489
+Current operator: *
+0
+Current operator: *
+96
+Current operator: +
+613
+Current operator: +
+861
+Current operator: +
+7449
+Current operator: +
+0
+Current operator: +
+433
+Current operator: +
+524
+Current operator: +
+636
+Current operator: +
+7247
+Current operator: +
+0
+Current operator: +
+994
+Current operator: *
+1883
+Current operator: *
+0
+Current operator: *
+27
+Current operator: +
+937
+Current operator: +
+1688
+Current operator: +
+9154
+Current operator: +
+0
+Current operator: +
+491
+Current operator: *
+7356
+Current operator: *
+8516
+Current operator: *
+0
+Current operator: *
+7515
+Current operator: *
+8184
+Current operator: *
+0
+Current operator: *
+872
+Current operator: *
+9478
+Current operator: *
+5945
+Current operator: *
+0
+Current operator: *
+317
+Current operator: +
+5612
+Current operator: +
+6933
+Current operator: +
+5749
+Current operator: +
+0
+Current operator: +
+8694
+Current operator: +
+5944
+Current operator: +
+514
+Current operator: +
+0
+Current operator: +
+1385
+Current operator: *
+7
+Current operator: *
+0
+Current operator: *
+6542
+Current operator: +
+7191
+Current operator: +
+6712
+Current operator: +
+721
+Current operator: +
+0
+Current operator: +
+7471
+Current operator: +
+5494
+Current operator: +
+2141
+Current operator: +
+0
+Current operator: +
+2891
+Current operator: +
+5417
+Current operator: +
+452
+Current operator: +
+12
+Current operator: +
+0
+Current operator: +
+413
+Current operator: *
+6389
+Current operator: *
+0
+Current operator: *
+537
+Current operator: *
+9773
+Current operator: *
+5357
+Current operator: *
+0
+Current operator: *
+1895
+Current operator: +
+847
+Current operator: +
+0
+Current operator: +
+9135
+Current operator: +
+7323
+Current operator: +
+554
+Current operator: +
+1
+Current operator: +
+0
+Current operator: +
+5
+Current operator: +
+9371
+Current operator: +
+3466
+Current operator: +
+5928
+Current operator: +
+0
+Current operator: +
+2174
+Current operator: *
+959
+Current operator: *
+0
+Current operator: *
+1235
+Current operator: +
+812
+Current operator: +
+0
+Current operator: +
+6495
+Current operator: *
+9947
+Current operator: *
+0
+Current operator: *
+5294
+Current operator: *
+212
+Current operator: *
+0
+Current operator: *
+525
+Current operator: +
+8331
+Current operator: +
+6336
+Current operator: +
+0
+Current operator: +
+8769
+Current operator: +
+976
+Current operator: +
+276
+Current operator: +
+0
+Current operator: +
+83
+Current operator: +
+3853
+Current operator: +
+8828
+Current operator: +
+9776
+Current operator: +
+0
+Current operator: +
+2
+Current operator: +
+475
+Current operator: +
+7229
+Current operator: +
+0
+Current operator: +
+1365
+Current operator: *
+4
+Current operator: *
+0
+Current operator: *
+1892
+Current operator: +
+426
+Current operator: +
+824
+Current operator: +
+43
+Current operator: +
+0
+Current operator: +
+6
+Current operator: *
+96
+Current operator: *
+7878
+Current operator: *
+0
+Current operator: *
+6168
+Current operator: *
+526
+Current operator: *
+0
+Current operator: *
+8321
+Current operator: *
+11
+Current operator: *
+99
+Current operator: *
+0
+Current operator: *
+7374
+Current operator: *
+886
+Current operator: *
+68
+Current operator: *
+0
+Current operator: *
+9971
+Current operator: *
+2881
+Current operator: *
+0
+Current operator: *
+17
+Current operator: *
+4385
+Current operator: *
+5749
+Current operator: *
+0
+Current operator: *
+273
+Current operator: *
+1344
+Current operator: *
+0
+Current operator: *
+1473
+Current operator: *
+383
+Current operator: *
+16
+Current operator: *
+0
+Current operator: *
+4118
+Current operator: +
+6567
+Current operator: +
+644
+Current operator: +
+198
+Current operator: +
+0
+Current operator: +
+4331
+Current operator: *
+7131
+Current operator: *
+0
+Current operator: *
+9
+Current operator: +
+1676
+Current operator: +
+0
+Current operator: +
+9513
+Current operator: *
+5536
+Current operator: *
+7
+Current operator: *
+0
+Current operator: *
+2471
+Current operator: *
+1223
+Current operator: *
+0
+Current operator: *
+6396
+Current operator: +
+664
+Current operator: +
+27
+Current operator: +
+79
+Current operator: +
+0
+Current operator: +
+8633
+Current operator: *
+27
+Current operator: *
+7
+Current operator: *
+0
+Current operator: *
+294
+Current operator: *
+436
+Current operator: *
+2615
+Current operator: *
+0
+Current operator: *
+413
+Current operator: *
+2248
+Current operator: *
+0
+Current operator: *
+2623
+Current operator: *
+2816
+Current operator: *
+0
+Current operator: *
+316
+Current operator: *
+1749
+Current operator: *
+8252
+Current operator: *
+0
+Current operator: *
+3491
+Current operator: +
+1441
+Current operator: +
+241
+Current operator: +
+36
+Current operator: +
+0
+Current operator: +
+237
+Current operator: +
+7699
+Current operator: +
+0
+Current operator: +
+7375
+Current operator: *
+6136
+Current operator: *
+0
+Current operator: *
+975
+Current operator: *
+8591
+Current operator: *
+3793
+Current operator: *
+0
+Current operator: *
+155
+Current operator: +
+9194
+Current operator: +
+3312
+Current operator: +
+0
+Current operator: +
+1999
+Current operator: +
+397
+Current operator: +
+0
+Current operator: +
+67
+Current operator: *
+91
+Current operator: *
+5615
+Current operator: *
+0
+Current operator: *
+3893
+Current operator: *
+11
+Current operator: *
+0
+Current operator: *
+6146
+Current operator: +
+9193
+Current operator: +
+0
+Current operator: +
+8317
+Current operator: *
+6373
+Current operator: *
+0
+Current operator: *
+7697
+Current operator: +
+8954
+Current operator: +
+0
+Current operator: +
+9381
+Current operator: *
+7276
+Current operator: *
+8877
+Current operator: *
+0
+Current operator: *
+565
+Current operator: +
+7952
+Current operator: +
+6425
+Current operator: +
+8347
+Current operator: +
+0
+Current operator: +
+9942
+Current operator: +
+9827
+Current operator: +
+9
+Current operator: +
+0
+Current operator: +
+1415
+Current operator: +
+5681
+Current operator: +
+1821
+Current operator: +
+5261
+Current operator: +
+0
+Current operator: +
+51
+Current operator: *
+6438
+Current operator: *
+9964
+Current operator: *
+0
+Current operator: *
+6
+Current operator: +
+157
+Current operator: +
+3734
+Current operator: +
+4892
+Current operator: +
+0
+Current operator: +
+7392
+Current operator: *
+6667
+Current operator: *
+1699
+Current operator: *
+0
+Current operator: *
+1756
+Current operator: +
+8717
+Current operator: +
+0
+Current operator: +
+839
+Current operator: +
+9339
+Current operator: +
+0
+Current operator: +
+615
+Current operator: +
+8891
+Current operator: +
+7423
+Current operator: +
+0
+Current operator: +
+23
+Current operator: *
+7253
+Current operator: *
+5339
+Current operator: *
+0
+Current operator: *
+65
+Current operator: +
+2735
+Current operator: +
+0
+Current operator: +
+63
+Current operator: +
+796
+Current operator: +
+4963
+Current operator: +
+2686
+Current operator: +
+0
+Current operator: +
+3
+Current operator: *
+7431
+Current operator: *
+0
+Current operator: *
+7736
+Current operator: +
+4445
+Current operator: +
+0
+Current operator: +
+6
+Current operator: +
+1488
+Current operator: +
+5474
+Current operator: +
+4146
+Current operator: +
+0
+Current operator: +
+134
+Current operator: +
+5653
+Current operator: +
+4153
+Current operator: +
+8267
+Current operator: +
+0
+Current operator: +
+81
+Current operator: *
+1394
+Current operator: *
+0
+Current operator: *
+3741
+Current operator: *
+58
+Current operator: *
+0
+Current operator: *
+5333
+Current operator: *
+3883
+Current operator: *
+181
+Current operator: *
+0
+Current operator: *
+4931
+Current operator: +
+2239
+Current operator: +
+2892
+Current operator: +
+77
+Current operator: +
+0
+Current operator: +
+1311
+Current operator: *
+6788
+Current operator: *
+823
+Current operator: *
+0
+Current operator: *
+567
+Current operator: +
+9742
+Current operator: +
+5681
+Current operator: +
+4362
+Current operator: +
+0
+Current operator: +
+52
+Current operator: +
+3637
+Current operator: +
+2438
+Current operator: +
+0
+Current operator: +
+9438
+Current operator: *
+8196
+Current operator: *
+0
+Current operator: *
+546
+Current operator: *
+3638
+Current operator: *
+7846
+Current operator: *
+0
+Current operator: *
+2685
+Current operator: +
+6537
+Current operator: +
+82
+Current operator: +
+0
+Current operator: +
+334
+Current operator: *
+785
+Current operator: *
+1317
+Current operator: *
+0
+Current operator: *
+4
+Current operator: *
+72
+Current operator: *
+2739
+Current operator: *
+0
+Current operator: *
+5978
+Current operator: +
+2271
+Current operator: +
+0
+Current operator: +
+6171
+Current operator: +
+416
+Current operator: +
+0
+Current operator: +
+3529
+Current operator: *
+8729
+Current operator: *
+0
+Current operator: *
+1393
+Current operator: *
+9242
+Current operator: *
+26
+Current operator: *
+0
+Current operator: *
+5488
+Current operator: *
+432
+Current operator: *
+0
+Current operator: *
+6269
+Current operator: +
+6826
+Current operator: +
+0
+Current operator: +
+97
+Current operator: *
+3331
+Current operator: *
+6978
+Current operator: *
+0
+Current operator: *
+2669
+Current operator: *
+839
+Current operator: *
+951
+Current operator: *
+0
+Current operator: *
+9722
+Current operator: *
+291
+Current operator: *
+0
+Current operator: *
+4
+Current operator: +
+398
+Current operator: +
+4585
+Current operator: +
+7822
+Current operator: +
+0
+Current operator: +
+4575
+Current operator: *
+844
+Current operator: *
+0
+Current operator: *
+9574
+Current operator: +
+5381
+Current operator: +
+0
+Current operator: +
+7141
+Current operator: +
+2665
+Current operator: +
+0
+Current operator: +
+544
+Current operator: *
+6876
+Current operator: *
+0
+Current operator: *
+421
+Current operator: *
+1332
+Current operator: *
+0
+Current operator: *
+8544
+Current operator: *
+7526
+Current operator: *
+8128
+Current operator: *
+0
+Current operator: *
+1956
+Current operator: +
+95
+Current operator: +
+0
+Current operator: +
+7776
+Current operator: *
+6213
+Current operator: *
+49
+Current operator: *
+0
+Current operator: *
+5394
+Current operator: *
+9866
+Current operator: *
+9425
+Current operator: *
+0
+Current operator: *
+2621
+Current operator: *
+9547
+Current operator: *
+5747
+Current operator: *
+0
+Current operator: *
+999
+Current operator: *
+7161
+Current operator: *
+8884
+Current operator: *
+0
+Current operator: *
+53
+Current operator: +
+65
+Current operator: +
+448
+Current operator: +
+3481
+Current operator: +
+0
+Current operator: +
+8565
+Current operator: *
+66
+Current operator: *
+32
+Current operator: *
+0
+Current operator: *
+364
+Current operator: *
+7656
+Current operator: *
+0
+Current operator: *
+7122
+Current operator: *
+7916
+Current operator: *
+0
+Current operator: *
+84
+Current operator: +
+4612
+Current operator: +
+6875
+Current operator: +
+8923
+Current operator: +
+0
+Current operator: +
+272
+Current operator: +
+4134
+Current operator: +
+4692
+Current operator: +
+9982
+Current operator: +
+0
+Current operator: +
+546
+Current operator: *
+4232
+Current operator: *
+0
+Current operator: *
+8984
+Current operator: *
+4561
+Current operator: *
+4928
+Current operator: *
+0
+Current operator: *
+3738
+Current operator: *
+2499
+Current operator: *
+6119
+Current operator: *
+0
+Current operator: *
+3823
+Current operator: +
+263
+Current operator: +
+0
+Current operator: +
+1931
+Current operator: +
+3357
+Current operator: +
+6
+Current operator: +
+0
+Current operator: +
+8338
+Current operator: *
+569
+Current operator: *
+0
+Current operator: *
+1638
+Current operator: *
+5
+Current operator: *
+0
+Current operator: *
+579
+Current operator: +
+7239
+Current operator: +
+0
+Current operator: +
+8243
+Current operator: +
+5294
+Current operator: +
+399
+Current operator: +
+635
+Current operator: +
+0
+Current operator: +
+5134
+Current operator: *
+72
+Current operator: *
+0
+Current operator: *
+9185
+Current operator: +
+68
+Current operator: +
+0
+Current operator: +
+127
+Current operator: +
+723
+Current operator: +
+9821
+Current operator: +
+0
+Current operator: +
+3269
+Current operator: *
+8468
+Current operator: *
+0
+Current operator: *
+8969
+Current operator: +
+4417
+Current operator: +
+151
+Current operator: +
+0
+Current operator: +
+1419
+Current operator: +
+6791
+Current operator: +
+571
+Current operator: +
+751
+Current operator: +
+0
+Current operator: +
+9849
+Current operator: +
+4887
+Current operator: +
+0
+Current operator: +
+684
+Current operator: *
+9711
+Current operator: *
+3962
+Current operator: *
+0
+Current operator: *
+5
+Current operator: +
+1256
+Current operator: +
+2367
+Current operator: +
+6583
+Current operator: +
+0
+Current operator: +
+425
+Current operator: *
+449
+Current operator: *
+4349
+Current operator: *
+0
+Current operator: *
+9
+Current operator: +
+385
+Current operator: +
+5644
+Current operator: +
+0
+Current operator: +
+7197
+Current operator: *
+5313
+Current operator: *
+0
+Current operator: *
+7119
+Current operator: +
+81
+Current operator: +
+0
+Current operator: +
+8766
+Current operator: *
+7373
+Current operator: *
+8391
+Current operator: *
+0
+Current operator: *
+1633
+Current operator: +
+57
+Current operator: +
+0
+Current operator: +
+9985
+Current operator: +
+46
+Current operator: +
+0
+Current operator: +
+6544
+Current operator: *
+73
+Current operator: *
+0
+Current operator: *
+8455
+Current operator: *
+38
+Current operator: *
+0
+Current operator: *
+3878
+Current operator: +
+424
+Current operator: +
+0
+Current operator: +
+354
+Current operator: +
+194
+Current operator: +
+4869
+Current operator: +
+2652
+Current operator: +
+0
+Current operator: +
+588
+Current operator: +
+3795
+Current operator: +
+4682
+Current operator: +
+0
+Current operator: +
+57
+Current operator: *
+1921
+Current operator: *
+5745
+Current operator: *
+0
+Current operator: *
+918
+Current operator: *
+9229
+Current operator: *
+8345
+Current operator: *
+0
+Current operator: *
+9662
+Current operator: *
+288
+Current operator: *
+0
+Current operator: *
+12
+Current operator: +
+7475
+Current operator: +
+0
+Current operator: +
+2869
+Current operator: *
+597
+Current operator: *
+13
+Current operator: *
+0
+Current operator: *
+8396
+Current operator: *
+3825
+Current operator: *
+919
+Current operator: *
+0
+Current operator: *
+3153
+Current operator: *
+5233
+Current operator: *
+0
+Current operator: *
+6325
+Current operator: *
+5552
+Current operator: *
+0
+Current operator: *
+1288
+Current operator: +
+46
+Current operator: +
+0
+Current operator: +
+6431
+Current operator: *
+9993
+Current operator: *
+3669
+Current operator: *
+0
+Current operator: *
+67
+Current operator: +
+5762
+Current operator: +
+0
+Current operator: +
+96
+Current operator: *
+8761
+Current operator: *
+1152
+Current operator: *
+0
+Current operator: *
+6245
+Current operator: *
+969
+Current operator: *
+0
+Current operator: *
+1776
+Current operator: *
+9123
+Current operator: *
+0
+Current operator: *
+7984
+Current operator: *
+659
+Current operator: *
+759
+Current operator: *
+0
+Current operator: *
+7889
+Current operator: *
+687
+Current operator: *
+0
+Current operator: *
+5317
+Current operator: +
+7463
+Current operator: +
+7218
+Current operator: +
+6241
+Current operator: +
+0
+Current operator: +
+5732
+Current operator: *
+7752
+Current operator: *
+0
+Current operator: *
+7496
+Current operator: +
+5767
+Current operator: +
+0
+Current operator: +
+83
+Current operator: +
+67
+Current operator: +
+7791
+Current operator: +
+7571
+Current operator: +
+0
+Current operator: +
+7
+Current operator: +
+4941
+Current operator: +
+8795
+Current operator: +
+0
+Current operator: +
+95
+Current operator: *
+8491
+Current operator: *
+0
+Current operator: *
+3153
+Current operator: *
+5164
+Current operator: *
+34
+Current operator: *
+0
+Current operator: *
+1876
+Current operator: +
+6599
+Current operator: +
+0
+Current operator: +
+458
+Current operator: +
+1811
+Current operator: +
+2666
+Current operator: +
+0
+Current operator: +
+4723
+Current operator: +
+2718
+Current operator: +
+0
+Current operator: +
+237
+Current operator: *
+3848
+Current operator: *
+0
+Current operator: *
+3
+Current operator: *
+7445
+Current operator: *
+0
+Current operator: *
+96
+Current operator: +
+989
+Current operator: +
+2411
+Current operator: +
+0
+Current operator: +
+79
+Current operator: +
+76
+Current operator: +
+7386
+Current operator: +
+0
+Current operator: +
+76
+Current operator: +
+278
+Current operator: +
+5227
+Current operator: +
+6958
+Current operator: +
+0
+Current operator: +
+2455
+Current operator: +
+886
+Current operator: +
+83
+Current operator: +
+0
+Current operator: +
+4239
+Current operator: +
+8827
+Current operator: +
+0
+Current operator: +
+5663
+Current operator: +
+3831
+Current operator: +
+6515
+Current operator: +
+9885
+Current operator: +
+0
+Current operator: +
+7176
+Current operator: *
+5643
+Current operator: *
+0
+Current operator: *
+2
+Current operator: *
+494
+Current operator: *
+8575
+Current operator: *
+0
+Current operator: *
+7525
+Current operator: +
+7459
+Current operator: +
+0
+Current operator: +
+6722
+Current operator: +
+15
+Current operator: +
+1
+Current operator: +
+8
+Current operator: +
+0
+Current operator: +
+3226
+Current operator: *
+78
+Current operator: *
+98
+Current operator: *
+0
+Current operator: *
+9258
+Current operator: +
+939
+Current operator: +
+22
+Current operator: +
+6
+Current operator: +
+0
+Current operator: +
+3657
+Current operator: *
+3519
+Current operator: *
+0
+Current operator: *
+9723
+Current operator: +
+921
+Current operator: +
+24
+Current operator: +
+0
+Current operator: +
+3677
+Current operator: *
+756
+Current operator: *
+0
+Current operator: *
+4961
+Current operator: *
+9123
+Current operator: *
+0
+Current operator: *
+7795
+Current operator: +
+9139
+Current operator: +
+9918
+Current operator: +
+2779
+Current operator: +
+0
+Current operator: +
+559
+Current operator: +
+6923
+Current operator: +
+0
+Current operator: +
+92
+Current operator: +
+221
+Current operator: +
+171
+Current operator: +
+6998
+Current operator: +
+0
+Current operator: +
+9247
+Current operator: *
+9489
+Current operator: *
+0
+Current operator: *
+976
+Current operator: +
+7126
+Current operator: +
+0
+Current operator: +
+5215
+Current operator: +
+5816
+Current operator: +
+0
+Current operator: +
+8388
+Current operator: *
+3983
+Current operator: *
+0
+Current operator: *
+16
+Current operator: +
+4368
+Current operator: +
+0
+Current operator: +
+1453
+Current operator: *
+75
+Current operator: *
+2
+Current operator: *
+0
+Current operator: *
+87
+Current operator: *
+662
+Current operator: *
+6656
+Current operator: *
+0
+Current operator: *
+178
+Current operator: *
+828
+Current operator: *
+6578
+Current operator: *
+0
+Current operator: *
+88
+Current operator: *
+2726
+Current operator: *
+0
+Current operator: *
+8688
+Current operator: *
+7535
+Current operator: *
+247
+Current operator: *
+0
+Current operator: *
+8364
+Current operator: *
+216
+Current operator: *
+36
+Current operator: *
+0
+Current operator: *
+1982
+Current operator: +
+584
+Current operator: +
+0
+Current operator: +
+12
+Current operator: +
+219
+Current operator: +
+262
+Current operator: +
+7939
+Current operator: +
+0
+Current operator: +
+725
+Current operator: +
+2645
+Current operator: +
+1251
+Current operator: +
+4411
+Current operator: +
+0
+Current operator: +
+81
+Current operator: +
+173
+Current operator: +
+8979
+Current operator: +
+0
+Current operator: +
+2127
+Current operator: *
+873
+Current operator: *
+1
+Current operator: *
+0
+Current operator: *
+73
+Current operator: +
+3583
+Current operator: +
+0
+Current operator: +
+14
+Current operator: +
+7197
+Current operator: +
+5713
+Current operator: +
+0
+Current operator: +
+3735
+Current operator: +
+493
+Current operator: +
+26
+Current operator: +
+4
+Current operator: +
+0
+Current operator: +
+5
+Current operator: *
+5539
+Current operator: *
+0
+Current operator: *
+737
+Current operator: +
+5197
+Current operator: +
+0
+Current operator: +
+8931
+Current operator: *
+52
+Current operator: *
+7
+Current operator: *
+0
+Current operator: *
+2971
+Current operator: +
+4927
+Current operator: +
+6965
+Current operator: +
+0
+Current operator: +
+4635
+Current operator: +
+6757
+Current operator: +
+2865
+Current operator: +
+0
+Current operator: +
+4646
+Current operator: +
+4543
+Current operator: +
+0
+Current operator: +
+1
+Current operator: *
+7589
+Current operator: *
+0
+Current operator: *
+6554
+Current operator: +
+184
+Current operator: +
+0
+Current operator: +
+2473
+Current operator: *
+68
+Current operator: *
+0
+Current operator: *
+7597
+Current operator: *
+7132
+Current operator: *
+0
+Current operator: *
+1999
+Current operator: +
+7747
+Current operator: +
+0
+Current operator: +
+93
+Current operator: *
+6169
+Current operator: *
+0
+Current operator: *
+286
+Current operator: *
+4584
+Current operator: *
+0
+Current operator: *
+3884
+Current operator: *
+449
+Current operator: *
+9
+Current operator: *
+0
+Current operator: *
+5629
+Current operator: *
+7784
+Current operator: *
+182
+Current operator: *
+0
+Current operator: *
+1486
+Current operator: *
+2859
+Current operator: *
+0
+Current operator: *
+8149
+Current operator: +
+3693
+Current operator: +
+23
+Current operator: +
+0
+Current operator: +
+7636
+Current operator: *
+5245
+Current operator: *
+6993
+Current operator: *
+0
+Current operator: *
+1692
+Current operator: +
+274
+Current operator: +
+0
+Current operator: +
+6289
+Current operator: *
+6591
+Current operator: *
+0
+Current operator: *
+2427
+Current operator: +
+262
+Current operator: +
+24
+Current operator: +
+28
+Current operator: +
+0
+Current operator: +
+21
+Current operator: *
+4517
+Current operator: *
+4995
+Current operator: *
+0
+Current operator: *
+792
+Current operator: +
+615
+Current operator: +
+8125
+Current operator: +
+9229
+Current operator: +
+0
+Current operator: +
+1634
+Current operator: *
+8929
+Current operator: *
+0
+Current operator: *
+9927
+Current operator: *
+4154
+Current operator: *
+493
+Current operator: *
+0
+Current operator: *
+6188
+Current operator: +
+5338
+Current operator: +
+2728
+Current operator: +
+51
+Current operator: +
+0
+Current operator: +
+4874
+Current operator: *
+2415
+Current operator: *
+0
+Current operator: *
+8756
+Current operator: *
+7299
+Current operator: *
+0
+Current operator: *
+6585
+Current operator: *
+3373
+Current operator: *
+8214
+Current operator: *
+0
+Current operator: *
+48
+Current operator: +
+227
+Current operator: +
+874
+Current operator: +
+8296
+Current operator: +
+0
+Current operator: +
+5296
+Current operator: +
+1757
+Current operator: +
+7794
+Current operator: +
+941
+Current operator: +
+0
+Current operator: +
+4
+Current operator: +
+13
+Current operator: +
+6512
+Current operator: +
+0
+Current operator: +
+1731
+Current operator: +
+99
+Current operator: +
+0
+Current operator: +
+6618
+Current operator: *
+7287
+Current operator: *
+0
+Current operator: *
+68
+Current operator: +
+8977
+Current operator: +
+3538
+Current operator: +
+3131
+Current operator: +
+0
+Current operator: +
+5
+Current operator: +
+476
+Current operator: +
+3598
+Current operator: +
+8455
+Current operator: +
+0
+Current operator: +
+2233
+Current operator: *
+5457
+Current operator: *
+0
+Current operator: *
+5733
+Current operator: +
+6199
+Current operator: +
+0
+Current operator: +
+2772
+Current operator: *
+8321
+Current operator: *
+277
+Current operator: *
+0
+Current operator: *
+6935
+Current operator: *
+1525
+Current operator: *
+542
+Current operator: *
+0
+Current operator: *
+563
+Current operator: *
+676
+Current operator: *
+5529
+Current operator: *
+0
+Current operator: *
+2334
+Current operator: *
+874
+Current operator: *
+443
+Current operator: *
+0
+Current operator: *
+8246
+Current operator: +
+4737
+Current operator: +
+0
+Current operator: +
+145
+Current operator: *
+7414
+Current operator: *
+6351
+Current operator: *
+0
+Current operator: *
+2411
+Current operator: +
+11
+Current operator: +
+11
+Current operator: +
+0
+Current operator: +
+4395
+Current operator: *
+6713
+Current operator: *
+4274
+Current operator: *
+0
+Current operator: *
+555
+Current operator: +
+574
+Current operator: +
+5766
+Current operator: +
+0
+Current operator: +
+5569
+Current operator: *
+5632
+Current operator: *
+46
+Current operator: *
+0
+Current operator: *
+8967
+Current operator: *
+9189
+Current operator: *
+0
+Current operator: *
+1225
+Current operator: *
+1165
+Current operator: *
+0
+Current operator: *
+2994
+Current operator: *
+2
+Current operator: *
+0
+Current operator: *
+1162
+Current operator: +
+6988
+Current operator: +
+254
+Current operator: +
+81
+Current operator: +
+0
+Current operator: +
+5917
+Current operator: *
+1929
+Current operator: *
+0
+Current operator: *
+5581
+Current operator: *
+2658
+Current operator: *
+9731
+Current operator: *
+0
+Current operator: *
+2797
+Current operator: *
+51
+Current operator: *
+0
+Current operator: *
+85
+Current operator: *
+6529
+Current operator: *
+0
+Current operator: *
+15
+Current operator: *
+6296
+Current operator: *
+5122
+Current operator: *
+0
+Current operator: *
+3263
+Current operator: +
+736
+Current operator: +
+0
+Current operator: +
+8228
+Current operator: *
+929
+Current operator: *
+0
+Current operator: *
+5527
+Current operator: +
+1836
+Current operator: +
+0
+Current operator: +
+5889
+Current operator: *
+819
+Current operator: *
+39
+Current operator: *
+0
+Current operator: *
+8
+Current operator: *
+449
+Current operator: *
+6772
+Current operator: *
+0
+Current operator: *
+4737
+Current operator: +
+1273
+Current operator: +
+82
+Current operator: +
+0
+Current operator: +
+9754
+Current operator: +
+683
+Current operator: +
+6
+Current operator: +
+0
+Current operator: +
+48
+Current operator: *
+6896
+Current operator: *
+3393
+Current operator: *
+0
+Current operator: *
+6783
+Current operator: +
+7687
+Current operator: +
+9611
+Current operator: +
+8534
+Current operator: +
+0
+Current operator: +
+2818
+Current operator: +
+295
+Current operator: +
+0
+Current operator: +
+7
+Current operator: +
+724
+Current operator: +
+9615
+Current operator: +
+0
+Current operator: +
+4629
+Current operator: +
+5248
+Current operator: +
+8
+Current operator: +
+0
+Current operator: +
+7
+Current operator: +
+397
+Current operator: +
+4118
+Current operator: +
+0
+Current operator: +
+1953
+Current operator: *
+2322
+Current operator: *
+5784
+Current operator: *
+0
+Current operator: *
+4222
+Current operator: *
+188
+Current operator: *
+184
+Current operator: *
+0
+Current operator: *
+8111
+Current operator: *
+7754
+Current operator: *
+714
+Current operator: *
+0
+Current operator: *
+449
+Current operator: +
+1593
+Current operator: +
+1435
+Current operator: +
+0
+Current operator: +
+438
+Current operator: +
+619
+Current operator: +
+722
+Current operator: +
+5753
+Current operator: +
+0
+Current operator: +
+871
+Current operator: *
+8191
+Current operator: *
+1617
+Current operator: *
+0
+Current operator: *
+528
+Current operator: +
+5585
+Current operator: +
+7469
+Current operator: +
+9893
+Current operator: +
+0
+Current operator: +
+6532
+Current operator: +
+2189
+Current operator: +
+496
+Current operator: +
+0
+Current operator: +
+6672
+Current operator: +
+2832
+Current operator: +
+0
+Current operator: +
+2383
+Current operator: +
+571
+Current operator: +
+0
+Current operator: +
+6638
+Current operator: *
+9739
+Current operator: *
+82
+Current operator: *
+0
+Current operator: *
+7134
+Current operator: +
+385
+Current operator: +
+42
+Current operator: +
+0
+Current operator: +
+62
+Current operator: *
+715
+Current operator: *
+9898
+Current operator: *
+0
+Current operator: *
+9666
+Current operator: *
+83
+Current operator: *
+0
+Current operator: *
+7561
+Current operator: +
+4861
+Current operator: +
+8273
+Current operator: +
+0
+Current operator: +
+417
+Current operator: *
+7525
+Current operator: *
+0
+Current operator: *
+47
+Current operator: *
+491
+Current operator: *
+6835
+Current operator: *
+0
+Current operator: *
+8292
+Current operator: +
+1317
+Current operator: +
+5656
+Current operator: +
+0
+Current operator: +
+696
+Current operator: *
+1916
+Current operator: *
+9315
+Current operator: *
+0
+Current operator: *
+5224
+Current operator: +
+1836
+Current operator: +
+9993
+Current operator: +
+7184
+Current operator: +
+0
+Current operator: +
+9628
+Current operator: *
+43
+Current operator: *
+0
+Current operator: *
+3259
+Current operator: *
+4397
+Current operator: *
+1156
+Current operator: *
+0
+Current operator: *
+2863
+Current operator: *
+18
+Current operator: *
+0
+Current operator: *
+1454
+Current operator: +
+5258
+Current operator: +
+0
+Current operator: +
+993
+Current operator: +
+3515
+Current operator: +
+7266
+Current operator: +
+5124
+Current operator: +
+0
+Current operator: +
+3718
+Current operator: *
+81
+Current operator: *
+57
+Current operator: *
+0
+Current operator: *
+2427
+Current operator: *
+384
+Current operator: *
+0
+Current operator: *
+8369
+Current operator: +
+6459
+Current operator: +
+2424
+Current operator: +
+0
+Current operator: +
+51
+Current operator: +
+2393
+Current operator: +
+7895
+Current operator: +
+9972
+Current operator: +
+0
+Current operator: +
+233
+Current operator: *
+8133
+Current operator: *
+0
+Current operator: *
+8798
+Current operator: +
+668
+Current operator: +
+0
+Current operator: +
+9324
+Current operator: *
+2672
+Current operator: *
+0
+Current operator: *
+7727
+Current operator: *
+1313
+Current operator: *
+0
+Current operator: *
+6416
+Current operator: +
+114
+Current operator: +
+0
+Current operator: +
+4871
+Current operator: +
+2287
+Current operator: +
+175
+Current operator: +
+791
+Current operator: +
+0
+Current operator: +
+48
+Current operator: +
+27
+Current operator: +
+296
+Current operator: +
+9792
+Current operator: +
+0
+Current operator: +
+13
+Current operator: *
+446
+Current operator: *
+4698
+Current operator: *
+0
+Current operator: *
+934
+Current operator: *
+4591
+Current operator: *
+3988
+Current operator: *
+0
+Current operator: *
+176
+Current operator: *
+1992
+Current operator: *
+0
+Current operator: *
+2482
+Current operator: +
+5839
+Current operator: +
+31
+Current operator: +
+0
+Current operator: +
+6
+Current operator: +
+618
+Current operator: +
+2417
+Current operator: +
+8181
+Current operator: +
+0
+Current operator: +
+5112
+Current operator: +
+45
+Current operator: +
+0
+Current operator: +
+7799
+Current operator: +
+7553
+Current operator: +
+9589
+Current operator: +
+62
+Current operator: +
+0
+Current operator: +
+99
+Current operator: +
+9953
+Current operator: +
+0
+Current operator: +
+45
+Current operator: +
+21
+Current operator: +
+9941
+Current operator: +
+8346
+Current operator: +
+0
+Current operator: +
+8554
+Current operator: *
+59
+Current operator: *
+0
+Current operator: *
+124
+Current operator: +
+8216
+Current operator: +
+7637
+Current operator: +
+0
+Current operator: +
+1474
+Current operator: *
+17
+Current operator: *
+0
+Current operator: *
+27
+Current operator: *
+58
+Current operator: *
+2253
+Current operator: *
+0
+Current operator: *
+2939
+Current operator: *
+7731
+Current operator: *
+0
+Current operator: *
+3831
+Current operator: +
+5395
+Current operator: +
+0
+Current operator: +
+4794
+Current operator: *
+7499
+Current operator: *
+0
+Current operator: *
+7922
+Current operator: +
+4989
+Current operator: +
+436
+Current operator: +
+29
+Current operator: +
+0
+Current operator: +
+1863
+Current operator: +
+49
+Current operator: +
+0
+Current operator: +
+873
+Current operator: *
+4299
+Current operator: *
+0
+Current operator: *
+9997
+Current operator: +
+4232
+Current operator: +
+255
+Current operator: +
+13
+Current operator: +
+0
+Current operator: +
+7279
+Current operator: *
+79
+Current operator: *
+82
+Current operator: *
+0
+Current operator: *
+685
+Current operator: +
+8116
+Current operator: +
+8679
+Current operator: +
+3332
+Current operator: +
+0
+Current operator: +
+5454
+Current operator: *
+3994
+Current operator: *
+0
+Current operator: *
+6773
+Current operator: +
+3138
+Current operator: +
+0
+Current operator: +
+8448
+Current operator: +
+688
+Current operator: +
+56
+Current operator: +
+68
+Current operator: +
+0
+Current operator: +
+7881
+Current operator: +
+51
+Current operator: +
+0
+Current operator: +
+2156
+Current operator: +
+2178
+Current operator: +
+0
+Current operator: +
+6171
+Current operator: *
+1241
+Current operator: *
+0
+Current operator: *
+2856
+Current operator: +
+6841
+Current operator: +
+0
+Current operator: +
+1625
+Current operator: +
+6242
+Current operator: +
+5497
+Current operator: +
+0
+Current operator: +
+5369
+Current operator: *
+1999
+Current operator: *
+9154
+Current operator: *
+0
+Current operator: *
+3689
+Current operator: *
+4579
+Current operator: *
+19
+Current operator: *
+0
+Current operator: *
+3933
+Current operator: +
+612
+Current operator: +
+91
+Current operator: +
+0
+Current operator: +
+9212
+Current operator: *
+1919
+Current operator: *
+0
+Current operator: *
+4252
+Current operator: *
+5758
+Current operator: *
+68
+Current operator: *
+0
+Current operator: *
+764
+Current operator: *
+4142
+Current operator: *
+3534
+Current operator: *
+0
+Current operator: *
+9427
+Current operator: +
+118
+Current operator: +
+621
+Current operator: +
+9
+Current operator: +
+0
+Current operator: +
+1544
+Current operator: +
+7554
+Current operator: +
+0
+Current operator: +
+7431
+Current operator: *
+7361
+Current operator: *
+51
+Current operator: *
+0
+Current operator: *
+84
+Current operator: +
+5224
+Current operator: +
+0
+Current operator: +
+171
+Current operator: +
+7128
+Current operator: +
+4979
+Current operator: +
+0
+Current operator: +
+9675
+Current operator: *
+791
+Current operator: *
+0
+Current operator: *
+7788
+Current operator: +
+9357
+Current operator: +
+0
+Current operator: +
+461
+Current operator: *
+6536
+Current operator: *
+8135
+Current operator: *
+0
+Current operator: *
+4116
+Current operator: +
+251
+Current operator: +
+233
+Current operator: +
+253
+Current operator: +
+0
+Current operator: +
+549
+Current operator: *
+3954
+Current operator: *
+5452
+Current operator: *
+0
+Current operator: *
+4198
+Current operator: +
+8187
+Current operator: +
+195
+Current operator: +
+0
+Current operator: +
+6828
+Current operator: *
+7293
+Current operator: *
+389
+Current operator: *
+0
+Current operator: *
+2912
+Current operator: *
+3359
+Current operator: *
+4427
+Current operator: *
+0
+Current operator: *
+91
+Current operator: +
+224
+Current operator: +
+5665
+Current operator: +
+8543
+Current operator: +
+0
+Current operator: +
+3491
+Current operator: +
+3156
+Current operator: +
+222
+Current operator: +
+7
+Current operator: +
+0
+Current operator: +
+9669
+Current operator: +
+6696
+Current operator: +
+711
+Current operator: +
+237
+Current operator: +
+0
+Current operator: +
+85
+Current operator: +
+1424
+Current operator: +
+0
+Current operator: +
+9514
+Current operator: +
+886
+Current operator: +
+0
+Current operator: +
+66
+Current operator: +
+9361
+Current operator: +
+8185
+Current operator: +
+0
+Current operator: +
+3339
+Current operator: *
+1859
+Current operator: *
+6135
+Current operator: *
+0
+Current operator: *
+7111
+Current operator: *
+428
+Current operator: *
+0
+Current operator: *
+1242
+Current operator: *
+148
+Current operator: *
+5
+Current operator: *
+0
+Current operator: *
+6242
+Current operator: +
+6783
+Current operator: +
+0
+Current operator: +
+67
+Current operator: +
+9353
+Current operator: +
+0
+Current operator: +
+7577
+Current operator: *
+676
+Current operator: *
+428
+Current operator: *
+0
+Current operator: *
+524
+Current operator: *
+238
+Current operator: *
+9421
+Current operator: *
+0
+Current operator: *
+7667
+Current operator: +
+2899
+Current operator: +
+0
+Current operator: +
+4364
+Current operator: +
+5782
+Current operator: +
+0
+Current operator: +
+5383
+Current operator: +
+4575
+Current operator: +
+324
+Current operator: +
+61
+Current operator: +
+0
+Current operator: +
+6466
+Current operator: *
+7938
+Current operator: *
+0
+Current operator: *
+8596
+Current operator: +
+471
+Current operator: +
+74
+Current operator: +
+35
+Current operator: +
+0
+Current operator: +
+7412
+Current operator: *
+6826
+Current operator: *
+0
+Current operator: *
+9393
+Current operator: +
+2144
+Current operator: +
+33
+Current operator: +
+6
+Current operator: +
+0
+Current operator: +
+3432
+Current operator: *
+347
+Current operator: *
+82
+Current operator: *
+0
+Current operator: *
+531
+Current operator: +
+8692
+Current operator: +
+5989
+Current operator: +
+0
+Current operator: +
+712
+Current operator: +
+1315
+Current operator: +
+0
+Current operator: +
+5916
+Current operator: +
+9
+Current operator: +
+0
+Current operator: +
+4319
+Current operator: +
+2356
+Current operator: +
+0
+Current operator: +
+8815
+Current operator: *
+3246
+Current operator: *
+7998
+Current operator: *
+0
+Current operator: *
+58
+Current operator: *
+783
+Current operator: *
+1749
+Current operator: *
+0
+Current operator: *
+28
+Current operator: +
+254
+Current operator: +
+5827
+Current operator: +
+0
+Current operator: +
+7931
+Current operator: *
+2961
+Current operator: *
+748
+Current operator: *
+0
+Current operator: *
+7423
+Current operator: *
+2
+Current operator: *
+0
+Current operator: *
+3535
+Current operator: +
+275
+Current operator: +
+932
+Current operator: +
+45
+Current operator: +
+0
+Current operator: +
+2989
+Current operator: *
+3296
+Current operator: *
+0
+Current operator: *
+13
+Current operator: +
+527
+Current operator: +
+5261
+Current operator: +
+3114
+Current operator: +
+0
+Current operator: +
+913
+Current operator: *
+6315
+Current operator: *
+8844
+Current operator: *
+0
+Current operator: *
+7
+Current operator: +
+1129
+Current operator: +
+6447
+Current operator: +
+0
+Current operator: +
+84
+Current operator: +
+779
+Current operator: +
+6812
+Current operator: +
+1647
+Current operator: +
+0
+Current operator: +
+3153
+Current operator: +
+3579
+Current operator: +
+6
+Current operator: +
+0
+Current operator: +
+3536
+Current operator: *
+448
+Current operator: *
+2
+Current operator: *
+0
+Current operator: *
+2655
+Current operator: *
+5
+Current operator: *
+0
+Current operator: *
+2123
+Current operator: +
+48
+Current operator: +
+35
+Current operator: +
+0
+Current operator: +
+2336
+Current operator: *
+146
+Current operator: *
+0
+Current operator: *
+4152
+Current operator: *
+5397
+Current operator: *
+0
+Current operator: *
+19
+Current operator: *
+683
+Current operator: *
+1833
+Current operator: *
+0
+Current operator: *
+9829
+Current operator: +
+3421
+Current operator: +
+0
+Current operator: +
+44
+Current operator: *
+9771
+Current operator: *
+5813
+Current operator: *
+0
+Current operator: *
+36
+Current operator: *
+61
+Current operator: *
+6496
+Current operator: *
+0
+Current operator: *
+2734
+Current operator: +
+8885
+Current operator: +
+747
+Current operator: +
+78
+Current operator: +
+0
+Current operator: +
+5128
+Current operator: *
+864
+Current operator: *
+63
+Current operator: *
+0
+Current operator: *
+65
+Current operator: *
+6197
+Current operator: *
+3857
+Current operator: *
+0
+Current operator: *
+8489
+Current operator: *
+3489
+Current operator: *
+0
+Current operator: *
+3
+Current operator: +
+6356
+Current operator: +
+7637
+Current operator: +
+0
+Current operator: +
+2236
+Current operator: +
+283
+Current operator: +
+221
+Current operator: +
+745
+Current operator: +
+0
+Current operator: +
+4437
+Current operator: +
+6523
+Current operator: +
+186
+Current operator: +
+115
+Current operator: +
+0
+Current operator: +
+2397
+Current operator: *
+2733
+Current operator: *
+0
+Current operator: *
+7222
+Current operator: +
+9227
+Current operator: +
+2362
+Current operator: +
+0
+Current operator: +
+4585
+Current operator: +
+3145
+Current operator: +
+19
+Current operator: +
+55
+Current operator: +
+0
+Current operator: +
+6537
+Current operator: +
+4467
+Current operator: +
+0
+Current operator: +
+2657
+Current operator: +
+8179
+Current operator: +
+9657
+Current operator: +
+0
+Current operator: +
+7
+Current operator: +
+3267
+Current operator: +
+1233
+Current operator: +
+7626
+Current operator: +
+0
+Current operator: +
+6558
+Current operator: +
+8294
+Current operator: +
+0
+Current operator: +
+8419
+Current operator: *
+8526
+Current operator: *
+0
+Current operator: *
+2839
+Current operator: +
+783
+Current operator: +
+861
+Current operator: +
+0
+Current operator: +
+4433
+Current operator: +
+1546
+Current operator: +
+9721
+Current operator: +
+8187
+Current operator: +
+0
+Current operator: +
+1243
+Current operator: *
+965
+Current operator: *
+0
+Current operator: *
+95
+Current operator: +
+7581
+Current operator: +
+5423
+Current operator: +
+1571
+Current operator: +
+0
+Current operator: +
+98
+Current operator: +
+386
+Current operator: +
+9152
+Current operator: +
+7577
+Current operator: +
+0
+Current operator: +
+2124
+Current operator: +
+6731
+Current operator: +
+168
+Current operator: +
+0
+Current operator: +
+7869
+Current operator: +
+9156
+Current operator: +
+1842
+Current operator: +
+822
+Current operator: +
+0
+Current operator: +
+723
+Current operator: *
+2274
+Current operator: *
+5831
+Current operator: *
+0
+Current operator: *
+51
+Current operator: +
+8731
+Current operator: +
+0
+Current operator: +
+9875
+Current operator: +
+9782
+Current operator: +
+4134
+Current operator: +
+27
+Current operator: +
+0
+Current operator: +
+2925
+Current operator: +
+6925
+Current operator: +
+786
+Current operator: +
+0
+Current operator: +
+7193
+Current operator: +
+448
+Current operator: +
+0
+Current operator: +
+6956
+Current operator: +
+2771
+Current operator: +
+0
+Current operator: +
+8249
+Current operator: *
+2628
+Current operator: *
+0
+Current operator: *
+5
+Current operator: *
+95
+Current operator: *
+4966
+Current operator: *
+0
+Current operator: *
+46
+Current operator: *
+1652
+Current operator: *
+0
+Current operator: *
+673
+Current operator: +
+1644
+Current operator: +
+4684
+Current operator: +
+0
+Current operator: +
+2627
+Current operator: *
+7225
+Current operator: *
+762
+Current operator: *
+0
+Current operator: *
+7485
+Current operator: +
+9535
+Current operator: +
+0
+Current operator: +
+3595
+Current operator: *
+2545
+Current operator: *
+1753
+Current operator: *
+0
+Current operator: *
+7874
+Current operator: *
+3152
+Current operator: *
+227
+Current operator: *
+0
+Current operator: *
+42
+Current operator: +
+376
+Current operator: +
+1315
+Current operator: +
+0
+Current operator: +
+87
+Current operator: +
+437
+Current operator: +
+488
+Current operator: +
+1265
+Current operator: +
+0
+Current operator: +
+482
+Current operator: *
+6646
+Current operator: *
+7648
+Current operator: *
+0
+Current operator: *
+4976
+Current operator: *
+7265
+Current operator: *
+0
+Current operator: *
+8539
+Current operator: +
+5171
+Current operator: +
+54
+Current operator: +
+0
+Current operator: +
+911
+Current operator: *
+7794
+Current operator: *
+8283
+Current operator: *
+0
+Current operator: *
+4293
+Current operator: +
+4769
+Current operator: +
+299
+Current operator: +
+623
+Current operator: +
+0
+Current operator: +
+2946
+Current operator: *
+4
+Current operator: *
+0
+Current operator: *
+5432
+Current operator: *
+524
+Current operator: *
+0
+Current operator: *
+5984
+Current operator: +
+6913
+Current operator: +
+144
+Current operator: +
+0
+Current operator: +
+5294
+Current operator: +
+286
+Current operator: +
+248
+Current operator: +
+0
+Current operator: +
+1949
+Current operator: *
+686
+Current operator: *
+58
+Current operator: *
+0
+Current operator: *
+9544
+Current operator: *
+8797
+Current operator: *
+3255
+Current operator: *
+0
+Current operator: *
+8423
+Current operator: +
+3862
+Current operator: +
+5172
+Current operator: +
+627
+Current operator: +
+0
+Current operator: +
+1733
+Current operator: +
+461
+Current operator: +
+214
+Current operator: +
+23
+Current operator: +
+0
+Current operator: +
+467
+Current operator: *
+2693
+Current operator: *
+0
+Current operator: *
+6712
+Current operator: *
+5237
+Current operator: *
+0
+Current operator: *
+3921
+Current operator: +
+982
+Current operator: +
+11
+Current operator: +
+0
+Current operator: +
+2334
+Current operator: +
+842
+Current operator: +
+71
+Current operator: +
+0
+Current operator: +
+332
+Current operator: *
+649
+Current operator: *
+4293
+Current operator: *
+0
+Current operator: *
+8987
+Current operator: *
+784
+Current operator: *
+84
+Current operator: *
+0
+Current operator: *
+7532
+Current operator: +
+5744
+Current operator: +
+1495
+Current operator: +
+747
+Current operator: +
+0
+Current operator: +
+7862
+Current operator: *
+3461
+Current operator: *
+9381
+Current operator: *
+0
+Current operator: *
+6127
+Current operator: *
+4987
+Current operator: *
+0
+Current operator: *
+2582
+Current operator: +
+1425
+Current operator: +
+0
+Current operator: +
+41
+Current operator: *
+282
+Current operator: *
+1174
+Current operator: *
+0
+Current operator: *
+5497
+Current operator: +
+93
+Current operator: +
+0
+Current operator: +
+5138
+Current operator: *
+5976
+Current operator: *
+0
+Current operator: *
+1557
+Current operator: +
+733
+Current operator: +
+72
+Current operator: +
+0
+Current operator: +
+2152
+Current operator: +
+679
+Current operator: +
+0
+Current operator: +
+5951
+Current operator: +
+756
+Current operator: +
+0
+Current operator: +
+1865
+Current operator: +
+4317
+Current operator: +
+2172
+Current operator: +
+0
+Current operator: +
+756
+Current operator: +
+2235
+Current operator: +
+9462
+Current operator: +
+0
+Current operator: +
+14
+Current operator: *
+412
+Current operator: *
+4915
+Current operator: *
+0
+Current operator: *
+1745
+Current operator: *
+9531
+Current operator: *
+0
+Current operator: *
+2644
+Current operator: *
+3996
+Current operator: *
+5697
+Current operator: *
+0
+Current operator: *
+9762
+Current operator: *
+8737
+Current operator: *
+0
+Current operator: *
+4
+Current operator: +
+6149
+Current operator: +
+0
+Current operator: +
+1174
+Current operator: *
+892
+Current operator: *
+823
+Current operator: *
+0
+Current operator: *
+7664
+Current operator: +
+9415
+Current operator: +
+3282
+Current operator: +
+3
+Current operator: +
+0
+Current operator: +
+772
+Current operator: +
+536
+Current operator: +
+4348
+Current operator: +
+0
+Current operator: +
+156
+Current operator: +
+613
+Current operator: +
+323
+Current operator: +
+9934
+Current operator: +
+0
+Current operator: +
+2
+Current operator: *
+4735
+Current operator: *
+7951
+Current operator: *
+0
+Current operator: *
+3642
+Current operator: +
+282
+Current operator: +
+0
+Current operator: +
+3156
+Current operator: *
+55
+Current operator: *
+0
+Current operator: *
+4585
+Current operator: *
+836
+Current operator: *
+91
+Current operator: *
+0
+Current operator: *
+755
+Current operator: +
+429
+Current operator: +
+2348
+Current operator: +
+0
+Current operator: +
+4652
+Current operator: +
+5596
+Current operator: +
+0
+Current operator: +
+35
+Current operator: +
+5196
+Current operator: +
+0
+Current operator: +
+3941
+Current operator: *
+2943
+Current operator: *
+0
+Current operator: *
+84
+Current operator: *
+7188
+Current operator: *
+0
+Current operator: *
+9578
+Current operator: *
+7147
+Current operator: *
+7368
+Current operator: *
+0
+Current operator: *
+1861
+Current operator: *
+1458
+Current operator: *
+5865
+Current operator: *
+0
+Current operator: *
+314
+Current operator: *
+722
+Current operator: *
+6712
+Current operator: *
+0
+Current operator: *
+6669
+Current operator: *
+8547
+Current operator: *
+0
+Current operator: *
+3
+Current operator: *
+8728
+Current operator: *
+0
+Current operator: *
+498
+Current operator: *
+7583
+Current operator: *
+2764
+Current operator: *
+0
+Current operator: *
+245
+Current operator: *
+499
+Current operator: *
+1375
+Current operator: *
+0
+Current operator: *
+9234
+Current operator: *
+5618
+Current operator: *
+2389
+Current operator: *
+0
+Current operator: *
+9
+Current operator: +
+43
+Current operator: +
+7663
+Current operator: +
+3375
+Current operator: +
+0
+Current operator: +
+7138
+Current operator: *
+5724
+Current operator: *
+0
+Current operator: *
+755
+Current operator: *
+3359
+Current operator: *
+1522
+Current operator: *
+0
+Current operator: *
+8567
+Current operator: +
+586
+Current operator: +
+93
+Current operator: +
+0
+Current operator: +
+2291
+Current operator: *
+5
+Current operator: *
+0
+Current operator: *
+2688
+Current operator: +
+1229
+Current operator: +
+0
+Current operator: +
+6188
+Current operator: *
+9699
+Current operator: *
+0
+Current operator: *
+1668
+Current operator: +
+1298
+Current operator: +
+8266
+Current operator: +
+636
+Current operator: +
+0
+Current operator: +
+46
+Current operator: *
+9872
+Current operator: *
+3412
+Current operator: *
+0
+Current operator: *
+2944
+Current operator: *
+7827
+Current operator: *
+824
+Current operator: *
+0
+Current operator: *
+4942
+Current operator: *
+1213
+Current operator: *
+3453
+Current operator: *
+0
+Current operator: *
+2738
+Current operator: +
+9991
+Current operator: +
+2665
+Current operator: +
+8653
+Current operator: +
+0
+Current operator: +
+9293
+Current operator: +
+2135
+Current operator: +
+923
+Current operator: +
+0
+Current operator: +
+1368
+Current operator: +
+8695
+Current operator: +
+0
+Current operator: +
+9421
+Current operator: *
+3848
+Current operator: *
+0
+Current operator: *
+5375
+Current operator: *
+2728
+Current operator: *
+697
+Current operator: *
+0
+Current operator: *
+6893
+Current operator: +
+8163
+Current operator: +
+578
+Current operator: +
+592
+Current operator: +
+0
+Current operator: +
+174
+Current operator: *
+5326
+Current operator: *
+9786
+Current operator: *
+0
+Current operator: *
+24
+Current operator: +
+2411
+Current operator: +
+1281
+Current operator: +
+8936
+Current operator: +
+0
+Current operator: +
+851
+Current operator: +
+9477
+Current operator: +
+2982
+Current operator: +
+0
+Current operator: +
+2712
+Current operator: *
+1562
+Current operator: *
+649
+Current operator: *
+0
+Current operator: *
+5993
+Current operator: +
+5419
+Current operator: +
+2345
+Current operator: +
+0
+Current operator: +
+2782
+Current operator: +
+771
+Current operator: +
+0
+Current operator: +
+2755
+Current operator: *
+6676
+Current operator: *
+71
+Current operator: *
+0
+Current operator: *
+52
+Current operator: +
+797
+Current operator: +
+9419
+Current operator: +
+3198
+Current operator: +
+0
+Current operator: +
+6111
+Current operator: *
+3582
+Current operator: *
+3694
+Current operator: *
+0
+Current operator: *
+816
+Current operator: +
+4396
+Current operator: +
+4637
+Current operator: +
+9244
+Current operator: +
+0
+Current operator: +
+9848
+Current operator: *
+1879
+Current operator: *
+29
+Current operator: *
+0
+Current operator: *
+3311
+Current operator: *
+3754
+Current operator: *
+0
+Current operator: *
+5
+Current operator: +
+99
+Current operator: +
+69
+Current operator: +
+8566
+Current operator: +
+0
+Current operator: +
+6848
+Current operator: *
+36
+Current operator: *
+0
+Current operator: *
+133
+Current operator: *
+1799
+Current operator: *
+2163
+Current operator: *
+0
+Current operator: *
+121
+Current operator: +
+4596
+Current operator: +
+0
+Current operator: +
+6476
+Current operator: +
+7777
+Current operator: +
+0
+Current operator: +
+242
+Current operator: +
+7492
+Current operator: +
+9953
+Current operator: +
+4777
+Current operator: +
+0
+Current operator: +
+599
+Current operator: +
+6832
+Current operator: +
+1613
+Current operator: +
+2794
+Current operator: +
+0
+Current operator: +
+54
+Current operator: *
+4354
+Current operator: *
+7878
+Current operator: *
+0
+Current operator: *
+8699
+Current operator: +
+37
+Current operator: +
+0
+Current operator: +
+27
+Current operator: *
+6487
+Current operator: *
+0
+Current operator: *
+2127
+Current operator: +
+4415
+Current operator: +
+7687
+Current operator: +
+971
+Current operator: +
+0
+Current operator: +
+4234
+Current operator: +
+3829
+Current operator: +
+5899
+Current operator: +
+0
+Current operator: +
+13
+Current operator: *
+3357
+Current operator: *
+4847
+Current operator: *
+0
+Current operator: *
+579
+Current operator: +
+1329
+Current operator: +
+0
+Current operator: +
+9196
+Current operator: *
+6182
+Current operator: *
+426
+Current operator: *
+0
+Current operator: *
+4973
+Current operator: +
+2969
+Current operator: +
+131
+Current operator: +
+15
+Current operator: +
+0
+Current operator: +
+16
+Current operator: +
+2295
+Current operator: +
+7981
+Current operator: +
+8161
+Current operator: +
+0
+Current operator: +
+97
+Current operator: *
+946
+Current operator: *
+8111
+Current operator: *
+0
+Current operator: *
+1691
+Current operator: +
+7139
+Current operator: +
+0
+Current operator: +
+834
+Current operator: +
+1561
+Current operator: +
+1527
+Current operator: +
+0
+Current operator: +
+77
+Current operator: *
+681
+Current operator: *
+3571
+Current operator: *
+0
+Current operator: *
+3571
+Current operator: *
+8862
+Current operator: *
+0
+Current operator: *
+3111
+Current operator: +
+5363
+Current operator: +
+0
+Current operator: +
+4954
+Current operator: +
+982
+Current operator: +
+6
+Current operator: +
+0
+Current operator: +
+359
+Current operator: +
+4545
+Current operator: +
+1862
+Current operator: +
+0
+Current operator: +
+757
+Current operator: *
+3292
+Current operator: *
+3977
+Current operator: *
+0
+Current operator: *
+838
+Current operator: +
+6451
+Current operator: +
+0
+Current operator: +
+8
+Current operator: +
+4
+Current operator: +
+727
+Current operator: +
+4624
+Current operator: +
+0
+Current operator: +
+1756
+Current operator: *
+9177
+Current operator: *
+1
+Current operator: *
+0
+Current operator: *
+3363
+Current operator: *
+9718
+Current operator: *
+671
+Current operator: *
+0
+Current operator: *
+515
+Current operator: +
+2917
+Current operator: +
+5216
+Current operator: +
+0
+Current operator: +
+2926
+Current operator: *
+2624
+Current operator: *
+0
+Current operator: *
+452
+Current operator: +
+453
+Current operator: +
+5961
+Current operator: +
+0
+Current operator: +
+86
+Current operator: +
+889
+Current operator: +
+6783
+Current operator: +
+6232
+Current operator: +
+0
+Current operator: +
+17
+Current operator: +
+822
+Current operator: +
+662
+Current operator: +
+9385
+Current operator: +
+0
+Current operator: +
+63
+Current operator: +
+45
+Current operator: +
+1916
+Current operator: +
+0
+Current operator: +
+195
+Current operator: +
+773
+Current operator: +
+1578
+Current operator: +
+4177
+Current operator: +
+0
+Current operator: +
+4191
+Current operator: *
+9658
+Current operator: *
+0
+Current operator: *
+8874
+Current operator: +
+1314
+Current operator: +
+4552
+Current operator: +
+7913
+Current operator: +
+0
+Current operator: +
+3986
+Current operator: +
+6823
+Current operator: +
+1219
+Current operator: +
+9682
+Current operator: +
+0
+Current operator: +
+6445
+Current operator: *
+7838
+Current operator: *
+71
+Current operator: *
+0
+Current operator: *
+1
+Current operator: *
+1963
+Current operator: *
+0
+Current operator: *
+4416
+Current operator: *
+5115
+Current operator: *
+0
+Current operator: *
+35
+Current operator: *
+7183
+Current operator: *
+0
+Current operator: *
+5682
+Current operator: +
+995
+Current operator: +
+533
+Current operator: +
+0
+Current operator: +
+983
+Current operator: +
+2213
+Current operator: +
+0
+Current operator: +
+97
+Current operator: *
+2216
+Current operator: *
+7812
+Current operator: *
+0
+Current operator: *
+9489
+Current operator: +
+5497
+Current operator: +
+0
+Current operator: +
+2
+Current operator: +
+1825
+Current operator: +
+5548
+Current operator: +
+0
+Current operator: +
+6937
+Current operator: +
+2452
+Current operator: +
+892
+Current operator: +
+328
+Current operator: +
+0
+Current operator: +
+159
+Current operator: *
+2243
+Current operator: *
+0
+Current operator: *
+936
+Current operator: +
+7976
+Current operator: +
+0
+Current operator: +
+68
+Current operator: +
+7843
+Current operator: +
+0
+Current operator: +
+6118
+Current operator: +
+3718
+Current operator: +
+0
+Current operator: +
+2286
+Current operator: +
+4637
+Current operator: +
+752
+Current operator: +
+264
+Current operator: +
+0
+Current operator: +
+3968
+Current operator: *
+3673
+Current operator: *
+0
+Current operator: *
+899
+Current operator: *
+9846
+Current operator: *
+0
+Current operator: *
+8625
+Current operator: +
+1466
+Current operator: +
+7719
+Current operator: +
+0
+Current operator: +
+21
+Current operator: +
+788
+Current operator: +
+9869
+Current operator: +
+4556
+Current operator: +
+0
+Current operator: +
+5836
+Current operator: +
+699
+Current operator: +
+0
+Current operator: +
+2268
+Current operator: *
+7763
+Current operator: *
+0
+Current operator: *
+88
+Current operator: *
+4551
+Current operator: *
+7988
+Current operator: *
+0
+Current operator: *
+8868
+Current operator: +
+2772
+Current operator: +
+5242
+Current operator: +
+0
+Current operator: +
+3296
+Current operator: +
+59
+Current operator: +
+0
+Current operator: +
+1424
+Current operator: +
+9762
+Current operator: +
+1
+Current operator: +
+0
+Current operator: +
+1642
+Current operator: *
+176
+Current operator: *
+0
+Current operator: *
+9873
+Current operator: +
+4
+Current operator: +
+0
+Current operator: +
+9743
+Current operator: +
+8852
+Current operator: +
+82
+Current operator: +
+0
+Current operator: +
+8894
+Current operator: +
+4569
+Current operator: +
+0
+Current operator: +
+9183
+Current operator: +
+251
+Current operator: +
+527
+Current operator: +
+5
+Current operator: +
+0
+Current operator: +
+3199
+Current operator: +
+8512
+Current operator: +
+127
+Current operator: +
+0
+Current operator: +
+1845
+Current operator: *
+413
+Current operator: *
+0
+Current operator: *
+1191
+Current operator: *
+932
+Current operator: *
+222
+Current operator: *
+0
+Current operator: *
+483
+Current operator: +
+3782
+Current operator: +
+1857
+Current operator: +
+0
+Current operator: +
+53
+Current operator: +
+5495
+Current operator: +
+0
+Current operator: +
+1534
+Current operator: *
+98
+Current operator: *
+0
+Current operator: *
+824
+Current operator: +
+164
+Current operator: +
+8566
+Current operator: +
+5179
+Current operator: +
+0
+Current operator: +
+929
+Current operator: *
+4275
+Current operator: *
+1146
+Current operator: *
+0
+Current operator: *
+5326
+Current operator: *
+6198
+Current operator: *
+2944
+Current operator: *
+0
+Current operator: *
+3249
+Current operator: +
+5297
+Current operator: +
+0
+Current operator: +
+2276
+Current operator: *
+9329
+Current operator: *
+9533
+Current operator: *
+Part two total: 9625320374409
